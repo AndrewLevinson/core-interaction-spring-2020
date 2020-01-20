@@ -1,8 +1,8 @@
 ---
-title: Project 1
+title: Project 2
 ---
 
-# It's Alive!
+# Archive!
 
 - project details
 

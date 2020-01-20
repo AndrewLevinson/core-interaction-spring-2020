@@ -3,10 +3,14 @@ module.exports = {
   description: 'Studio & Lab Course Site Spring 2020',
   themeConfig: {
     nav: [
-      { text: 'Projects', link: '/projects/' },
-      { text: 'Agenda', link: '/agenda/' },
-      { text: 'About', link: '/about/' },
+      { text: 'Weekly Agendas', link: '/agendas/' },
+      { text: 'Readings', link: '/readings/' },
+      { text: 'Lessons', link: '/lessons/' },
+      { text: 'Studio Projects', link: '/projects/' },
+      { text: 'Class Info', link: '/info/' },
       { text: 'Resources', link: '/resources/' }
-    ]
-  }
+    ],
+    searchPlaceholder: 'Search Anything...'
+  },
+  plugins: ['vuepress-plugin-smooth-scroll']
 };

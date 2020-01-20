@@ -1,8 +1,8 @@
 ---
-title: Project 1
+title: Project 3
 ---
 
-# It's Alive!
+# Hand Phone
 
 - project details
 

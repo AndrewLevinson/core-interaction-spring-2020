@@ -1,6 +1,6 @@
 ## Parsons Core Interaction Course Site
 
-### Combined Site fo Both the Studio and Lab sections
+### Combined Site for Both the Studio and Lab sections
 
 Built with [Vuepress](https://vuepress.vuejs.org/)
 

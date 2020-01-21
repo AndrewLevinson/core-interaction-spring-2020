@@ -7,19 +7,24 @@ sidebar: auto
 
 ## Getting Set Up
 
+1. Download Google Chrome. We will use it the entire semester. Mozilla Firefox is also acceptable. Don't even think about Safari though. We will talk about why later in the semester.
 1. Download a free text editor. I recommend [VS Code](https://code.visualstudio.com/).
 1. Open the Terminal on your Mac
 
    - talk to me if you have a Windows PC instead; we will work through any Windows specific operations
 
-1. Create a Github Account (if you don't already have one) and create a new repository for this course
+1. Create a [Github Account](https://github.com/) (if you don't already have one) and create a new repository for this course.
 1. Install [Git version control](https://git-scm.com/downloads)
 1. Generate an SSH Key to add to your Github following [these instructions](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
-   ::: warning
-   Follow Directions Carefully
+   ::: danger
+   Follow Directions Carefully. Ask for help if needed.
    :::
 
-## Navigating the Terminal
+## Using the Terminal and Git
+
+If you wanted to, you could do just about anything you can image in the terminal without ever using an GUI. However, we're going to keep it simple. The below commands for the Terminal and for Git are likely all you will need in this course and in life.
+
+### Top Terminal Commands
 
 ```shell
 # Go Home
@@ -46,7 +51,7 @@ mkdir directory-name
 touch index.html
 ```
 
-## Basic Git Commands
+### Top Git Commands
 
 ```git
 
@@ -85,4 +90,13 @@ git checkout -b branch-name
 # Merge another branch into your current branch
 git merge branch-name
 
+# help!
+git help
+
 ```
+
+## README.md
+
+- Let's add and push a `README.md` file to your new repository.
+
+## Next: [HTML Lesson & Setting up Github Pages →](lesson-2.md)

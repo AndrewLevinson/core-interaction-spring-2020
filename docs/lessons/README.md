@@ -11,7 +11,9 @@ sidebar: auto
 
 [Studio Lesson 2](./studio/lesson-2)
 
-[Lab Lesson](./lab/lesson-1)
+Lab Lesson 1: [The Developer Environment](./lab/lesson-1)
+
+Lab Lesson 2: [HTML Basics](./lab/lesson-2)
 
 ## Week 2
 

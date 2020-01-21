@@ -53,8 +53,6 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 Each student will maintain a Github pages website. Your homework must be uploaded to your github pages site prior to the class it is due
 :::
 
----
-
 <div v-for="i in 15">
 Student {{ i }} Name
 

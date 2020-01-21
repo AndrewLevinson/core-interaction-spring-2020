@@ -10,7 +10,8 @@ module.exports = {
       { text: 'Class Info', link: '/info/' },
       { text: 'Resources', link: '/resources/' }
     ],
-    searchPlaceholder: 'Search Anything...'
+    searchPlaceholder: 'Search Anything...',
+    lastUpdated: 'Last Updated'
   },
   plugins: ['vuepress-plugin-smooth-scroll']
 };

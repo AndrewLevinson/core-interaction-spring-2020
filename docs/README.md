@@ -1,15 +1,24 @@
 ---
-home: true
+home: false
 # heroImage: './'
-heroText: Core Interaction
-tagline: Studio & Lab Course Site
-actionText: What is this class? →
-actionLink: /info/
-footer: This site was built with Vuepress in 2020
+title: Core Interaction Home Page
+# heroText: Welcome to Core Interaction
+# tagline: Studio & Lab Course Site [section K]
+# actionText: What is this class? →
+# actionLink: /info/
+# footer: This site was built with Vuepress in 2020
 pageClass: home-page
 ---
 
-## Weekly Agendas
+<br><br><br>
+
+# Welcome to Core Interaction :wave:
+
+Howdy! This will be your main resource for the Studio and Lab Sections K Spring 2020
+
+[What did I sign up for?](./info/)
+
+## Weekly Agendas & Homework :woman_technologist: :man_technologist:
 
 ::: tip Pro Tip
 These will unlock at the beginning of each week. You should make a habbit of reviewing the upcoming week's agenda in advance.
@@ -19,7 +28,7 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 ### [Week 2](./agendas/week-2-disabled)
 
-### [Week 3](./agendas/week-3-disabled)
+<!-- ### [Week 3](./agendas/week-3-disabled)
 
 ### [Week 4](./agendas/week-4-disabled)
 
@@ -43,9 +52,9 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 ### [Week 14](./agendas/week-14-disabled)
 
-### [Week 15](./agendas/week-15-disabled)
+### [Week 15](./agendas/week-15-disabled) -->
 
----
+<br><br>
 
 ## Student Github Sites
 

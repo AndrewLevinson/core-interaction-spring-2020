@@ -33,7 +33,7 @@ Students will learn foundational, front-end languages HTML, CSS, and JavaScript 
 
 ## Core Lab
 
-#### [Download <u>Lab</u> Syllabus](https:google.com/)
+#### [Download <u>Lab</u> Syllabus](https://docs.google.com/document/d/1dDaj-eQHMSL0f148LS6eyfYv_7OLbUtjcrA9sm_sIes/edit?usp=sharing)
 
 #### Course Description
 

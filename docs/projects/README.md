@@ -7,6 +7,6 @@ lang: en-US
 
 ## [1. It's Alive!](./project-1)
 
-## [2. Archive](./project-2)
+## [2. Archive](./project-2-disabled)
 
-## [3. Hand Phone](./project-3)
+## [3. Hand Phone](./project-3-disabled)

@@ -13,7 +13,7 @@ sidebar: auto
 
 Lab Lesson 1: [The Developer Environment](./lab/lesson-1)
 
-Lab Lesson 2: [HTML Basics](./lab/lesson-2)
+Lab Lesson 2: [HTML Basics](./lab/lesson-2-disabled)
 
 ## Week 2
 

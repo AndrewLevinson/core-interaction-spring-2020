@@ -97,6 +97,6 @@ git help
 
 ## README.md
 
-- Let's add and push a `README.md` file to your new repository.
+- Let's add and push a `README.md` file to your new repository :tada:
 
 ## Next: [HTML Lesson & Setting up Github Pages →](lesson-2.md)

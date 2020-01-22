@@ -3,7 +3,9 @@ module.exports = {
   description: 'Studio & Lab Course Site Spring 2020',
   themeConfig: {
     nav: [
-      { text: 'Weekly Agendas', link: '/agendas/' },
+      // { text: 'Weekly Agendas', link: '/agendas/' },
+
+      { text: 'Home', link: '/' },
       { text: 'Readings', link: '/readings/' },
       { text: 'Lessons', link: '/lessons/' },
       { text: 'Studio Projects', link: '/projects/' },

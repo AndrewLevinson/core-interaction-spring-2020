@@ -16,7 +16,7 @@ pageClass: home-page
 
 Howdy! This will be your main resource for the Studio and Lab Sections K Spring 2020
 
-[What did I sign up for?](./info/)
+[What did I sign up for? →](./info/)
 
 ## Weekly Agendas & Homework :woman_technologist: :man_technologist:
 

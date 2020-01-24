@@ -49,6 +49,13 @@ touch index.html
 
 ```git
 
+
+#add, then commit, then push your work!
+1. git add .
+2. git commit -m"a great message about what you did"
+3. git push origin master
+
+# here's a bunch of helpful stuff in no particular order
 # initialize Git tracking on folder (and children)
 git init
 

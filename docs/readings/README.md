@@ -7,6 +7,6 @@ sidebar: auto
 
 Readings should be completed by <b>beginning</b> of class
 
-## Week 1
+## Week 2
 
 - Coming Soon

@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Core Interaction',
   description: 'Studio & Lab Course Site Spring 2020',
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
     nav: [
       // { text: 'Weekly Agendas', link: '/agendas/' },

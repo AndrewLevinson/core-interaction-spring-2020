@@ -98,6 +98,6 @@ git help
 ## README.md
 
 - Let's add and push a `README.md` file to your new repository :tada:
-- But first, what is [`Markdown`](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ?
+- But first, what is [`Markdown`](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## Next: [HTML Lesson & Setting up Github Pages →](lesson-2.md)
+## Next: [HTML Lesson & Setting up Github Pages →](lesson-2.md-disabled)

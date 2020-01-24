@@ -68,3 +68,9 @@ Student {{ i }} Name
 [Site Link](./disabled)
 
 </div>
+
+---
+
+This site is used for the Parsons School of Design Core Interaction course as part of the Communication Design BFA curriculum. Spring 2020.
+
+[Code Repo](https://github.com/AndrewLevinson/core-interaction-spring-2020) | Submit a pull request if you find a mistake! :computer:

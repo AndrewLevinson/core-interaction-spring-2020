@@ -9,16 +9,10 @@ sidebar: auto
 
 1. Download Google Chrome. We will use it the entire semester. Mozilla Firefox is also acceptable. Don't even think about Safari though. We will talk about why later in the semester.
 1. Download a free text editor. I recommend [VS Code](https://code.visualstudio.com/).
-1. Open the Terminal on your Mac
+1. Create a [Github Account](https://github.com/) (if you don't already have one) and create a new repository for this course. Accept the option to initialize your repository with a `README.md` file :white_check_mark:
 
-   - talk to me if you have a Windows PC instead; we will work through any Windows specific operations
-
-1. Create a [Github Account](https://github.com/) (if you don't already have one) and create a new repository for this course.
+1. Open the Terminal on your Mac or Command Line on your Windows
 1. Install [Git version control](https://git-scm.com/downloads)
-1. Generate an SSH Key to add to your Github following [these instructions](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
-   ::: danger
-   Follow Directions Carefully. Ask for help if needed.
-   :::
 
 ## Using the Terminal and Git
 
@@ -97,7 +91,11 @@ git help
 
 ## README.md
 
-- Let's add and push a `README.md` file to your new repository :tada:
+- Let's edit, commit and push your `README.md` file to your new repository :tada:
 - But first, what is [`Markdown`](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+::: tip Don't want to type in your password every time you push to Github?
+Generate an SSH Key on your machine to add to your Github following [these instructions](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+:::
 
 ## Next: [HTML Lesson & Setting up Github Pages →](lesson-2.md-disabled)

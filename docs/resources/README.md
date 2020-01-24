@@ -7,7 +7,9 @@ sidebar: auto
 
 This page will be updated with resources as the class progresses.
 
-## Self Help
+...coming soon.
+
+<!-- ## Self Help
 
 If you can describe your problem in words, you're already halfway there.
 
@@ -88,4 +90,4 @@ Recommended:
 
 ---
 
-...and more to come!
+...and more to come! -->

@@ -22,7 +22,7 @@ sidebar: auto
 
 ## Using the Terminal and Git
 
-If you wanted to, you could do just about anything you can image in the terminal without ever using an GUI. However, we're going to keep it simple. The below commands for the Terminal and for Git are likely all you will need in this course and in life.
+If you wanted to, you could do just about anything you can imagine in the terminal without ever using a GUI. However, we're going to keep it simple. The below commands for the Terminal and for Git are likely all you will need in this course...and likely in life.
 
 ### Top Terminal Commands
 
@@ -98,5 +98,6 @@ git help
 ## README.md
 
 - Let's add and push a `README.md` file to your new repository :tada:
+- But first, what is `Markdown` ?
 
 ## Next: [HTML Lesson & Setting up Github Pages →](lesson-2.md)

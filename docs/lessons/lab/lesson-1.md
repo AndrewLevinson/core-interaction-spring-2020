@@ -105,5 +105,3 @@ Generate an SSH Key on your machine to add to your Github following [these instr
 - Turn on [Github Pages](https://help.github.com/en/github/working-with-github-pages)
 
 <!-- ## Next: [HTML Lesson & Setting up Github Pages →](lesson-2.md-disabled) -->
-
-### NO HOMEWORK EVER!!

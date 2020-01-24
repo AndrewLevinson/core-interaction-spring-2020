@@ -7,10 +7,8 @@ sidebar: auto
 
 ## Week 1
 
-[Studio Lesson 1](./studio/lesson-1-disabled)
-
-[Studio Lesson 2](./studio/lesson-2-disabled)
+[Studio Slides](https://docs.google.com/presentation/d/1nJWiElNJg6cuuyOlSCDHD8JUgQ5a34C4aUiiOybKcCI/edit?usp=sharing)
 
 Lab Lesson 1: [The Developer Environment](./lab/lesson-1)
 
-Lab Lesson 2: [HTML Basics](./lab/lesson-2-disabled)
+Lab Lesson 2: [Let's Code](./lab/lesson-2-disabled)

@@ -35,8 +35,8 @@ Our first meeting will be on Thursday
 
 #### In Class
 
-- Introductions
 - Take this survey at: [http://bit.ly/core-interaction](http://bit.ly/core-interaction)
+- Introductions
 - Discuss areas of interest & possibilities for this class
 - Review format of class, expectations, and recurring homework on the [Lab Syllabus](https://docs.google.com/document/d/1dDaj-eQHMSL0f148LS6eyfYv_7OLbUtjcrA9sm_sIes/edit?usp=sharing)
 - Lesson: [The Developer Environment](../lessons/lab/lesson-1)

@@ -9,11 +9,14 @@ sidebar: auto
 
 ### Tuesday, 1/28
 
-- [add]
+- URL, DNS, IP and Structure of the page
+— 
 
 ### Homework
 
-- [add]
+- Pick one of the two reading for the first project: It's Alive! Only using HTML (NO CSS) translates the printed words into the webpage. You need to use html, head, title, body to create the index.html file. 
+However, you can only use p and br as a HTML tag for now. We will be talking about the design of your page. Be creative with these limitations. Remember the goal of the exercise: Your reader will not only be able to read the story but also experience your interpretation of the story.
+<b> I will pick three people to show their website. </b>
 
 ### Thursday, 1/30
 
@@ -21,7 +24,10 @@ sidebar: auto
 
 ### Homework
 
--[add]
+- Only use HTML (no CSS of any kind). In addition to the elements allowed in Level 1, use any of the following HTML elements: div, span, h1, h2, h3, h4, h5, h6, strong, em, ol, ul, li, a (Do not link to external sites, but you can link to parts of your poem using an attribute to assign an id). 
+<br>
+You <b>need</b> to make two different versions of the website. Be ready to present it in class. 
+
 
 ## Lab
 

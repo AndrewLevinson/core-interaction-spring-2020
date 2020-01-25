@@ -5,7 +5,7 @@ lang: en-US
 
 # Studio Projects
 
-## [1. It's Alive!]
+## [1. It's Alive!](./project-2)
 
 ## [2. Archive](./project-2-disabled)
 

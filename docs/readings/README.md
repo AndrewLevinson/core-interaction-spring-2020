@@ -9,4 +9,4 @@ Readings should be completed by <b>beginning</b> of class
 
 ## Week 2
 
-Test
+1) A PATTERN LANGUAGE, Christopher Alexander <a href="patternlanguage.pdf"> Download </a>

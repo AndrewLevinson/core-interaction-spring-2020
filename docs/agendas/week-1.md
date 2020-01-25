@@ -55,8 +55,8 @@ Our first meeting will be on Thursday
 
    - Don't forget to check our [resources page](../resources) for the class! Simone and Andrew will keep an updated list as we progress through the class. There will likely be multiple free, public resources added each week to assist you with your assignments.
 
+<b>Due Date:</b> By the start of the next lab, 1/31
+
 ::: warning Reminder
 You will add your homework assignments and projects to your Github Pages site as they become due. Since we review these assignments at the start of class, late work <b>cannot</b> be accepted.
 :::
-
-<b>Due Date:</b> By the start of the next lab, 1/31

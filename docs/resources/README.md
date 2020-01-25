@@ -23,6 +23,24 @@ For a good general overview:
 - [Mozilla: So what is CSS, really?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [Mozilla: So what is JavaScript, really?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
+## Basic Git
+
+```git
+# What to do when you're ready save your work and update your remote Github Repo:
+
+#0. always check the status of your work in between EVERY step.
+git status
+# 1. Add all your work to stage it.
+git add .
+# 2. Commit your work.
+git commit -m"a great message about what you did"
+# 3. Push to your Github (it will automatically update your website too!)
+git push origin master
+```
+
+- [Git Explorer](https://gitexplorer.com/)
+  - My one and only `git` resource to find any command
+
 ## HTML
 
 HTML stands for Hypertext Markup Language. It's used to structure a webpage and its content. HTML is not a programming language, but a markup language.

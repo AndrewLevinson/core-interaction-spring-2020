@@ -50,6 +50,8 @@ touch index.html
 ```git
 # What to do when you're ready save your work and update your remote Github Repo:
 
+#0. always check the status of your work in between EVERY step.
+git status
 # 1. Add all your work to stage it.
 git add .
 # 2. Commit your work.
@@ -113,6 +115,6 @@ Generate an SSH Key on your machine to add to your Github following [these instr
 
 - Create an `index.html` file and add as much structure and style as you'd like.
 - Push to Github
-- Turn on [Github Pages](https://help.github.com/en/github/working-with-github-pages)
+- Turn on [Github Pages](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
 
 <!-- ## Next: [HTML Lesson & Setting up Github Pages →](lesson-2.md-disabled) -->

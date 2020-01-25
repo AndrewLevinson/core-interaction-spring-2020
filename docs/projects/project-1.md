@@ -4,7 +4,6 @@ title: Project 1
 
 # It's Alive!
 
-- project details
 
 ### Description
 
@@ -23,49 +22,49 @@ We will collect all the website in a giant online garden. Come to class prepared
 
 <b> 01/28 </b>
 — Choice between Perec and Alexander
-— Only use HTML (no CSS of any kind). In addition to the required html, head, title, and body elements, you can use any of the following HTML elements: 
+— Only use HTML (no CSS of any kind). In addition to the required html, head, title, and body elements, you can use any of the following HTML elements: <br>
 p, 
-br,
+br,<br>
 — Have your page ready to review in class
 
 <b> 01/30 </b>
-— Only use HTML (no CSS of any kind). In addition to the elements allowed in Level 1, use any of the following HTML elements:
-div,
-span,
-h1, h2, h3, h4, h5, h6,
-strong,
-em,
-ol, ul, li,
+— Only use HTML (no CSS of any kind). In addition to the elements allowed in Level 1, use any of the following HTML elements:<br>
+div,<br>
+span,<br>
+h1, h2, h3, h4, h5, h6,<br>
+strong,<br>
+em,<br>
+ol, ul, li,<br>
 a (Do not link to external sites, but you can link to parts of your poem using an attribute to assign an id)
 
 <b>02/04 </b>
 — Use both HTML and CSS. Only use the following CSS properties:
-Padding {}
-Border {}
-margin{}
-position{}
-display{}
-float{}
-top, right, bottom, left{}
-height, width{}
+Padding {}<br>
+Border {}<br>
+margin{}<br>
+position{}<br>
+display{}<br>
+float{}<br>
+top, right, bottom, left{}<br>
+height, width{}<br>
 
 <b>02/06 </b>
 — Use both HTML and CSS. In addition to the CSS properties allowed in before, you can use any of the following CSS properties:
-Font-style {}
-Font-weight {}
-Font-size {}
-Font-family {} 
-Text-align {} 
-Line-height {}
-Letter-spacing {}
-Text-transform {}
+Font-style {}<br>
+Font-weight {}<br>
+Font-size {}<br>
+Font-family {} <br>
+Text-align {} <br>
+Line-height {}<br>
+Letter-spacing {}<br>
+Text-transform {}<br>
 
 <b>02/11</b>
 — Have a website of at least 3 linked pages 
 — Have at least three different versions of the website based on the following words:
-	1. Obscure 
-	2. Light
-	3. Fun
+1. Obscure 
+2. Light
+3. Fun
 — Have a navigation bar
 
 <b>02/13</b>

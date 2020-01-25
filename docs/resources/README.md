@@ -105,6 +105,15 @@ Recommended:
 - [Lynda: Learning Git and GitHub](https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html)
 - [Lynda: UNIX for Mac OS X Users](https://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html)
 
+## Philosphy of Code
+
+- [Timeless articles that will change your perspective on coding](https://css-tricks.com/timeless-web-dev-articles/)
+
+## Daily/Weekly Design & Code Email Newsletters
+
+[Sidebar](https://sidebar.io/)
+[Best Web-based data viz of the week currated by The Dataface](http://thedataface.com/newsletter)
+
 ---
 
 ...and more to come!

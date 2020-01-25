@@ -27,7 +27,10 @@ sidebar: auto
 
 ### Friday, 1/31
 
-- [add]
+- Discuss grading and attendence policy
+- Talk about how to save and store your work
+- Review homework (be prepared to talk through your process!)
+- [Lesson 2](./-disabled)
 
 ### Homework
 

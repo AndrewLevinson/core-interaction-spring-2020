@@ -9,4 +9,4 @@ Readings should be completed by <b>beginning</b> of class
 
 ## Week 2
 
-- Coming Soon
+Test

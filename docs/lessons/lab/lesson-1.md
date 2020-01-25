@@ -48,13 +48,17 @@ touch index.html
 ### Top Git Commands
 
 ```git
+# What to do when you're ready save your work and update your remote Github Repo:
 
+# 1. Add all your work to stage it.
+git add .
+# 2. Commit your work.
+git commit -m"a great message about what you did"
+# 3. Push to your Github (it will automatically update your website too!)
+git push origin master
+```
 
-#add, then commit, then push your work!
-1. git add .
-2. git commit -m"a great message about what you did"
-3. git push origin master
-
+```git
 # here's a bunch of helpful stuff in no particular order
 # initialize Git tracking on folder (and children)
 git init

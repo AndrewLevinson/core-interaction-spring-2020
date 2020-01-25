@@ -3,8 +3,10 @@ title: HTML Basics
 sidebar: auto
 ---
 
-# HTML Basics
+HTML and CSS: Structure and tags, media, the box model, selectors and specificity; Text editor goodness
 
-HTML stands for Hypertext Markup Language. It's used to structure a webpage and its content. HTML is not a programming language, but a markup language.
+[The CSS Cascade](https://wattenberger.com/blog/css-cascade)
 
-something else
+https://browserdefaultstyles.com/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#colors_table

@@ -11,4 +11,8 @@ sidebar: auto
 
 Lab Lesson 1: [The Developer Environment](./lab/lesson-1)
 
+## Week 2
+
+[Studio Slides](./-disabled)
+
 Lab Lesson 2: [Let's Code](./lab/lesson-2-disabled)

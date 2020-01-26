@@ -9,8 +9,13 @@ sidebar: auto
 
 ### Tuesday, 1/28
 
-- URL, DNS, IP and Structure of the page
-— 
+- URL, DNS, IP and Structure of the page <br>
+— Structure of a page <br>
+- Hierarchy of the page <br>
+- 15 MINUTES EXERCISE! (Real life nested structure) <br>
+- Only HTML website <br>
+- Questions for '?' <br>
+- Critique first excersise <br>
 
 ### Homework
 
@@ -20,15 +25,20 @@ However, you can only use p and br as a HTML tag for now. We will be talking abo
 
 ### Thursday, 1/30
 
-- [add]
+- History of the web <br>
+- Art, Design and the internet </br>
+- Intro to style <br>
+- 15 MINUTES EXERCISE! (Pixel Portrait) <br>
+- Question for '?' <br>
+- Critique second excersise
 
 ### Homework
 
 - Only use HTML (no CSS of any kind). In addition to the elements allowed in Level 1, use any of the following HTML elements: div, header, footer, span, h1, h2, h3, h4, h5, h6, strong, em, ol, ul, li, a (Do not link to external sites, but you can link to parts of your poem using an attribute to assign an id). 
 <br>
-You <b>need</b> to make two different versions of the website. Be ready to present it in class. 
+You <b>need</b> to make <strong> two </strong> different versions of the website. Be ready to present it in class. 
 <br>
-— Analize 3 different websites 
+— Analize 3 different websites structure and hierarchy 
 
 
 ## Lab

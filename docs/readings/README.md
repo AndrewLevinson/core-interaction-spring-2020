@@ -16,6 +16,7 @@ Readings should be completed by <b>beginning</b> of class
 
 <strong> 01/30 </strong>
 1) Frank Chimero, what a screen wants <a href="https://frankchimero.com/writing/what-screens-want/"> Here</a>
+2) By Design, Alice Rawsthorn <a href="By-Design.pdf"> Download</a>
 
 
 ## Week 3 Studio

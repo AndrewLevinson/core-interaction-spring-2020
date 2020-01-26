@@ -38,7 +38,7 @@ However, you can only use p and br as a HTML tag for now. We will be talking abo
 <br>
 You <b>need</b> to make <strong> two </strong> different versions of the website. Be ready to present it in class. 
 <br>
-- Analize 3 different websites structure and hierarchy 
+- In pairs: Analize 3 different websites structure and hierarchy 
 
 
 ## Lab

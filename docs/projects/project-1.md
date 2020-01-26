@@ -30,12 +30,14 @@ br,<br>
 <b> 01/30 </b>
 — Only use HTML (no CSS of any kind). In addition to the elements allowed in Level 1, use any of the following HTML elements:<br>
 div,<br>
+header,<br>
+footer,<br>
 span,<br>
 h1, h2, h3, h4, h5, h6,<br>
 strong,<br>
 em,<br>
 ol, ul, li,<br>
-a (Do not link to external sites, but you can link to parts of your poem using an attribute to assign an id)
+a (Do not link to external sites, but you can link to parts of your text using an attribute to assign an id)
 
 <b>02/04 </b>
 — Use both HTML and CSS. Only use the following CSS properties:

@@ -1,5 +1,5 @@
 ---
-title: HTML Basics
+title: HTML & CSS Basics
 sidebar: auto
 ---
 

@@ -1,13 +1,5 @@
 ---
-home: false
-# heroImage: './'
 title: Core Interaction Home Page
-# heroText: Welcome to Core Interaction
-# tagline: Studio & Lab Course Site [section K]
-# actionText: What is this class? →
-# actionLink: /info/
-# footer: This site was built with Vuepress in 2020
-pageClass: home-page
 ---
 
 <br><br><br>
@@ -20,15 +12,12 @@ Howdy! This will be your main resource for the Studio and Lab Sections K Spring 
 
 ## Weekly Agendas & Homework :woman_technologist: :man_technologist:
 
-::: tip Pro Tip
-These will unlock at the beginning of each week. You should make a habbit of reviewing the upcoming week's agenda in advance.
-:::
-
 ### [Week 1](./agendas/week-1)
 
-### [Week 2](./agendas/week-2)
+### [Week 2](./agendas/week-2) <span class="current">current</span>
 
-### [Week 3](./agendas/week-3-disabled)
+<!-- ### [Week 3](./agendas/week-3-disabled) -->
+
 <!--
 ### [Week 4](./agendas/week-4-disabled)
 
@@ -54,22 +43,75 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 ### [Week 15](./agendas/week-15-disabled) -->
 
+<!-- ::: tip Pro Tip
+These will unlock at the beginning of each week. You should make a habbit of reviewing the upcoming week's agenda in advance.
+::: -->
+
 <br><br>
 
 ## Student Github Sites
 
-::: warning Keep these sites up to date.
-Each student will maintain a Github pages website. Your homework must be uploaded to your github pages site prior to the class it is due
-:::
+### [Eesha](https://github.com/eesha3/core-lab-interaction)
 
-<div v-for="i in 15">
-Student {{ i }} Name
+[https://eesha3.github.io/core-lab-interaction/](https://eesha3.github.io/core-lab-interaction/)
 
-[Site Link](./disabled)
+### [Madeline](https://github.com/madelinebenfield/mads)
 
-</div>
+[https://madelinebenfield.github.io/mads/](https://madelinebenfield.github.io/mads/)
 
----
+### [Sia](https://github.com/siabishnoi/core-interaction)
+
+[https://siabishnoi.github.io/core-interaction/](https://siabishnoi.github.io/core-interaction/)
+
+### [Paul](https://github.com/brockpaul/CoreInteraction)
+
+[https://brockpaul.github.io/CoreInteraction/](https://brockpaul.github.io/CoreInteraction/)
+
+### [Ella](https://github.com/chrie280/interaction-lab-rat)
+
+[https://chrie280.github.io/interaction-lab-rat/](https://chrie280.github.io/interaction-lab-rat/)
+
+### [Aaron](https://github.com/dcg199935/Aaron-D)
+
+[https://dcg199935.github.io/Aaron-D/](https://dcg199935.github.io/Aaron-D/)
+
+### [Eliz](tbd-disabled)
+
+[Github Pages Site](-disabled)
+
+### [Abbey](https://github.com/grega186/abbeygregs)
+
+[https://grega186.github.io/abbeygregs/](https://grega186.github.io/abbeygregs/)
+
+### [Juri](-disabled)
+
+[Github Pages Site](-disabled)
+
+### [Yoo-Jin](https://github.com/jangy558/core-lab-interaction)
+
+[https://jangy558.github.io/core-lab-interaction/](https://jangy558.github.io/core-lab-interaction/)
+
+### [Simran](https://github.com/simrankanwar/core-interaction-spring)
+
+[https://simrankanwar.github.io/core-interaction-spring/](https://simrankanwar.github.io/core-interaction-spring/)
+
+### [Yeojin](https://github.com/ParkMob/CORE-INTERACTION)
+
+[https://parkmob.github.io/CORE-INTERACTION/](https://parkmob.github.io/CORE-INTERACTION/)
+
+### [Isabelle](https://github.com/sutti554/core-interaction)
+
+[https://sutti554.github.io/core-interaction/](https://sutti554.github.io/core-interaction/)
+
+### [Shuming](https://github.com/Summmiii/sumiii_cooore-interaction)
+
+[https://summmiii.github.io/sumiii_cooore-interaction/](https://summmiii.github.io/sumiii_cooore-interaction/)
+
+### [Arianne](-disabled)
+
+[Github Pages Site](-disabled)
+
+## <br><br>
 
 This site is used for the Parsons School of Design Core Interaction course as part of the Communication Design BFA curriculum. Spring 2020.
 

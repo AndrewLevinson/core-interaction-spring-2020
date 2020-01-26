@@ -64,7 +64,7 @@ Text-transform {}<br>
 — Have at least three different versions of the website based on the following words:
 1. Obscure 
 2. Light
-3. Fun
+3. Fun <br>
 — Have a navigation bar
 
 <b>02/13</b>
@@ -75,6 +75,6 @@ Text-transform {}<br>
 2. Light
 3. Fun
 4. Warm
-5. Basic
+5. Basic <br>
 — Your website should have simple CSS animation
 

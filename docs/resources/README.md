@@ -111,8 +111,8 @@ Recommended:
 
 ## Daily/Weekly Design & Code Email Newsletters
 
-[Sidebar](https://sidebar.io/)
-[Best Web-based data viz of the week currated by The Dataface](http://thedataface.com/newsletter)
+- [Sidebar](https://sidebar.io/)
+- [Best Web-based data viz of the week currated by The Dataface](http://thedataface.com/newsletter)
 
 ---
 

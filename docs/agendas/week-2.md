@@ -29,7 +29,7 @@ sidebar: auto
 - Art, Design and the internet </br>
 - Intro to style <br>
 - 15 MINUTES EXERCISE! (Pixel Portrait) <br>
-- Question for '?' <br>
+- Pair presentation E-Reader <br>
 - Critique second excersise
 
 ### Homework

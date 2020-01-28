@@ -10,3 +10,5 @@ lang: en-US
 ## [2. Archive](./project-2-disabled)
 
 ## [3. Hand Phone](./project-3-disabled)
+
+## [3. E-Reader](./project-4)

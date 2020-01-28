@@ -19,9 +19,9 @@ sidebar: auto
 
 ### Homework
 
-- Pick one of the two reading for the first project: It's Alive! Only using HTML (NO CSS) translates the printed words into the webpage. You need to use html, head, title, body to create the index.html file. 
-However, you can only use p and br as a HTML tag for now. We will be talking about the design of your page. Be creative with these limitations. Remember the goal of the exercise: Your reader will not only be able to read the story but also experience your interpretation of the story.
-<b> I will pick three people to show their website. </b>
+- Pick one of the two reading for the first project: It's Alive! Only using HTML (NO CSS) translates the printed words into the webpage. You need to use html, head, title, body to create the index.html file.
+  However, you can only use p and br as a HTML tag for now. We will be talking about the design of your page. Be creative with these limitations. Remember the goal of the exercise: Your reader will not only be able to read the story but also experience your interpretation of the story.
+  <b> I will pick three people to show their website. </b>
 
 ### Thursday, 1/30
 
@@ -34,19 +34,24 @@ However, you can only use p and br as a HTML tag for now. We will be talking abo
 
 ### Homework
 
-- Only use HTML (no CSS of any kind). In addition to the elements allowed in Level 1, use any of the following HTML elements: div, header, footer, span, h1, h2, h3, h4, h5, h6, strong, em, ol, ul, li, a (Do not link to external sites, but you can link to parts of your poem using an attribute to assign an id). 
-<br>
-You <b>need</b> to make <strong> two </strong> different versions of the website. Be ready to present it in class. 
-<br>
-- In pairs: Analize 3 different websites structure and hierarchy 
-
+- Only use HTML (no CSS of any kind). In addition to the elements allowed in Level 1, use any of the following HTML elements: div, header, footer, span, h1, h2, h3, h4, h5, h6, strong, em, ol, ul, li, a (Do not link to external sites, but you can link to parts of your poem using an attribute to assign an id).
+  <br>
+  You <b>need</b> to make <strong> two </strong> different versions of the website. Be ready to present it in class.
+  <br>
+- In pairs: Analize 3 different websites structure and hierarchy
 
 ## Lab
 
 ### Friday, 1/31
 
-- [add]
+- Discuss grading and attendence policy
+- Talk about how to save and store your work
+- Review homework (be prepared to talk through your process!)
+- [Lesson 2](./-disabled)
 
 ### Homework
 
-- [add]
+- Using today’s lesson, improve upon your Github Pages index.html. HTML and CSS should practice best practices outlined in class
+- TBD
+
+<b>Due Date:</b> By the start of the next lab, 2/7

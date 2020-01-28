@@ -3,7 +3,7 @@ pageClass: custom-page-class
 sidebar: auto
 ---
 
-# About this Class
+# About the Studio and Lab Classes
 
 ## Core Studio
 

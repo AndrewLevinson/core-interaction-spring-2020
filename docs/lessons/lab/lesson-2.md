@@ -1,5 +1,5 @@
 ---
-title: HTML Basics
+title: HTML & CSS Basics
 sidebar: auto
 ---
 
@@ -10,3 +10,5 @@ HTML and CSS: Structure and tags, media, the box model, selectors and specificit
 https://browserdefaultstyles.com/
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#colors_table
+
+From syl – HTML and CSS: structure and tags,working with media, the box model, selectors and specificity; Text editor goodness

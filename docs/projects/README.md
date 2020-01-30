@@ -11,4 +11,4 @@ lang: en-US
 
 ## [3. Hand Phone](./project-3-disabled)
 
-## [3. E-Reader](./project-4)
+## [4. E-Reader](./project-4)

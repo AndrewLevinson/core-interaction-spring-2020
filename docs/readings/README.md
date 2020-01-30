@@ -20,3 +20,6 @@ Readings should be completed by <b>beginning</b> of class
 2. By Design, Alice Rawsthorn [Download](../By-Design.pdf)
 
 ## Week 3 Studio
+
+1. Orit Gat, Unbound, The Politics of Scanning [here](https://rhizome.org/editorial/2014/oct/9/unbound-politics-scanning/)
+2. Keller Easterling, An Internet of Things [Here](https://www.e-flux.com/journal/31/68189/an-internet-of-things/)

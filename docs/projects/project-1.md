@@ -40,7 +40,7 @@ ol, ul, li,<br>
 a (Do not link to external sites, but you can link to parts of your text using an attribute to assign an id)
 
 <b>02/04 </b>
-— Use both HTML and CSS. Only use the following CSS properties:
+— Use both HTML and CSS. Only use the following CSS properties: <br>
 Padding {}<br>
 Border {}<br>
 margin{}<br>
@@ -49,6 +49,8 @@ display{}<br>
 float{}<br>
 top, right, bottom, left{}<br>
 height, width{}<br>
+background-color {} <br>
+color <br>
 
 <b>02/06 </b>
 — Use both HTML and CSS. In addition to the CSS properties allowed in before, you can use any of the following CSS properties:

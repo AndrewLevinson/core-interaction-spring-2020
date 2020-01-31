@@ -47,13 +47,15 @@ Let's add HTML to Andrew's fake course site together. I'll take suggestions from
 - Remember proper semantic tags like `nav`, `section`, `main`, `header`, `footer` and type hierarchy. <i>Don't settle for a `div` when there's a better tag out there.</i>
 - Remember to have your Developer Tools panel open while you code
 
-## <br><br>
+<br>
+
+---
 
 <b>Let's take a break? :sweat_smile:</b>
 
 ---
 
-## <br><br>
+<br>
 
 ## CSS [Cascading Style Sheets]
 

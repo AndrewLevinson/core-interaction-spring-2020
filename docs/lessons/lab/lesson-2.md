@@ -25,6 +25,10 @@ Let's add HTML to Andrew's fake course site together. I'll take suggestions from
 
 #### Key Takeaways
 
+- Remember to always have your Developer Tools open while you code
+
+  - In Chrome: `View` > `Developer` > `Developer Tools`
+
 - Basic HTML scaffolding:
 
 ```html
@@ -45,7 +49,6 @@ Let's add HTML to Andrew's fake course site together. I'll take suggestions from
 - Remember proper indentation: you may use a code formatter like [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - You can even add `formatOnSave` to auto format every time you save you changes
 - Remember proper semantic tags like `nav`, `section`, `main`, `header`, `footer` and type hierarchy. <i>Don't settle for a `div` when there's a better tag out there.</i>
-- Remember to have your Developer Tools panel open while you code
 
 <br>
 

@@ -58,5 +58,16 @@ sidebar: auto
   :::
 
 - Read this (very short) article on [The CSS Cascade](https://wattenberger.com/blog/css-cascade) from Amelia Wattenberger before next class. We'll discuss specificity and the cascade in more detail in next week's lab.
+- Read this article on [box-sizing](https://css-tricks.com/box-sizing/) from Marie Mosley at CSS Tricks to learn why you likely want to add the following code to the top of your CSS stylesheets:
+  ```css
+  html {
+    box-sizing: border-box;
+  }
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  ```
 
-<b>Due Date:</b> By the start of the next lab, 2/7
+<b>Due Date:</b> All due by the start of the next lab, 2/7

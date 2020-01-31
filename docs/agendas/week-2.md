@@ -45,8 +45,7 @@ sidebar: auto
 ### Friday, 1/31
 
 - Discuss grading and attendence policy
-- Review homework (be prepared to talk through your process!)
-- Talk about the right structure for your files and the right git + github workflow
+- Review homework and git/github issues
 - [Lesson 2: Intro to Structure & Style](../lessons/lab/lesson-2)
 
 ### Homework

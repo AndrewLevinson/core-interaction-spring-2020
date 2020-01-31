@@ -5,8 +5,6 @@ sidebar: auto
 
 # Let's Talk Structure & Style
 
-<b>Highlights:</b> Structure and tags, media, the box model, selectors and specificity; Text editor goodness.
-
 ## Review Folder Structure
 
 #### Basic folder structure and hierarchy for course repo.
@@ -14,7 +12,7 @@ sidebar: auto
 - Let's open the repo and consider some organization. I will commit work to my [instructor class repo](https://github.com/AndrewLevinson/symmetrical-octo-potato) so you can refer back to it later
 
   ::: warning
-  Git doesn't just track changes to your code files. It's tracking everything inside your repository including changes to folder structure, naming, additions, deletions, etc.
+  Git tracks more than the changes to your content in your code files. It's tracking everything inside your repository including changes to folder structure, naming, additions, deletions, etc.
   :::
 
 ## HTML Review

@@ -45,17 +45,18 @@ sidebar: auto
 ### Friday, 1/31
 
 - Discuss grading and attendence policy
-- Discuss how to seek help
 - Review homework (be prepared to talk through your process!)
 - Talk about the right structure for your files and the right git + github workflow
-- [Lesson 2](./-disabled)
+- [Lesson 2: Intro to Structure & Style](../lessons/lab/lesson-2)
 
 ### Homework
 
 - Using today’s lesson, improve upon your Github Pages index.html. HTML and CSS should showcase best practices outlined in class
   ::: warning
 
-  While last week's assignment was more about completeness, this time I will evaluate based on <b>corectness</b>. Think about your folder and file hierarchy, html structure, tag selection, and css system.
+  While last week's assignment was more about completeness, this time I will evaluate based on <b>corectness</b>. Think about your folder and file hierarchy, html structure, tag selection, and css organization.
   :::
+
+- Read this (very short) article on [The CSS Cascade](https://wattenberger.com/blog/css-cascade) from Amelia Wattenberger before next class. We'll discuss specificity and the cascade in more detail in next week's lab.
 
 <b>Due Date:</b> By the start of the next lab, 2/7

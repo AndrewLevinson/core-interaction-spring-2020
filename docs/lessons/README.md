@@ -15,4 +15,4 @@ Lab Lesson 1: [The Developer Environment](./lab/lesson-1)
 
 [Studio Slides](./-disabled)
 
-Lab Lesson 2: [Let's Code](./lab/lesson-2-disabled)
+Lab Lesson 2: [Intro to Structure & Style](./lab/lesson-2)

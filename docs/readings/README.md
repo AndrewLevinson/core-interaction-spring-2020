@@ -23,3 +23,8 @@ Readings should be completed by <b>beginning</b> of class
 
 1. Orit Gat, Unbound, The Politics of Scanning [here](https://rhizome.org/editorial/2014/oct/9/unbound-politics-scanning/)
 2. Keller Easterling, An Internet of Things [Here](https://www.e-flux.com/journal/31/68189/an-internet-of-things/)
+
+#### Week 3 Lab Readings
+
+1. [The CSS Cascade](https://wattenberger.com/blog/css-cascade) by Amelia Wattenberger
+2. [CSS box-sizing](https://css-tricks.com/box-sizing/) by Marie Mosley at CSS Tricks

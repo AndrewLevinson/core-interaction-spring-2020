@@ -51,7 +51,8 @@ sidebar: auto
 
 ### Homework
 
-- Using today’s lesson, improve upon your Github Pages index.html. HTML and CSS should showcase best practices outlined in class
+- Using today’s lesson, improve upon your Github Pages index.html. HTML and CSS should showcase best practices outlined in class. You can reference the in-class example we worked through [here](https://github.com/AndrewLevinson/symmetrical-octo-potato)
+
   ::: warning
 
   While last week's assignment was more about completeness, this time I will evaluate based on <b>corectness</b>. Think about your folder and file hierarchy, html structure, tag selection, and css organization.

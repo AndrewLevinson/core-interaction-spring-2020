@@ -3,32 +3,35 @@ title: Week 3 Agenda
 sidebar: auto
 ---
 
-# Week 2 Agenda
+# Week 3 Agenda
 
 ## Studio
 
 ### Tuesday, 2/4
 
-- [add]
+- [TBD]
 
 ### Homework
 
-- [add]
+- [TBD]
 
 ### Thursday, 2/6
 
-- [add]
+- [TBD]
 
 ### Homework
 
--[add]
+-[TBD]
 
 ## Lab
 
 ### Friday, 2/7
 
-- [add]
+- Sophomore Work Collection
+- Review Homework
+- Review Andrew's [class example site](https://github.com/AndrewLevinson/symmetrical-octo-potato)
+- [Lesson 3: CSS Styling](../lessons/lab/lesson-3-disabled)
 
 ### Homework
 
-- [add]
+- [TBD]

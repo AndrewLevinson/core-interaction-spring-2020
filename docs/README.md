@@ -14,9 +14,9 @@ Howdy! This will be your main resource for the Studio and Lab Sections K Spring 
 
 ### [Week 1](./agendas/week-1)
 
-### [Week 2](./agendas/week-2) <span class="current">current</span>
+### [Week 2](./agendas/week-2)
 
-<!-- ### [Week 3](./agendas/week-3-disabled) -->
+### [Week 3](./agendas/week-3) <span class="current">current</span>
 
 <!--
 ### [Week 4](./agendas/week-4-disabled)
@@ -75,17 +75,17 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 [https://dcg199935.github.io/Aaron-D/](https://dcg199935.github.io/Aaron-D/)
 
-### [Eliz](tbd-disabled)
+### [Eliz](https://github.com/eyffan/Eliz-Fan)
 
-[Github Pages Site](-disabled)
+[https://eyffan.github.io/Eliz-Fan/.](https://eyffan.github.io/Eliz-Fan/.)
 
 ### [Abbey](https://github.com/grega186/abbeygregs)
 
 [https://grega186.github.io/abbeygregs/](https://grega186.github.io/abbeygregs/)
 
-### [Juri](-disabled)
+### [Juri](https://github.com/JuriHan2022/class-example)
 
-[Github Pages Site](-disabled)
+[https://jurihan2022.github.io/class-example/ ](https://jurihan2022.github.io/class-example/)
 
 ### [Yoo-Jin](https://github.com/jangy558/core-lab-interaction)
 
@@ -95,7 +95,7 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 [https://simrankanwar.github.io/core-interaction-spring/](https://simrankanwar.github.io/core-interaction-spring/)
 
-### [Yeojin](https://github.com/ParkMob/CORE-INTERACTION)
+### [Jin](https://github.com/ParkMob/CORE-INTERACTION)
 
 [https://parkmob.github.io/CORE-INTERACTION/](https://parkmob.github.io/CORE-INTERACTION/)
 
@@ -107,9 +107,15 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 [https://summmiii.github.io/sumiii_cooore-interaction/](https://summmiii.github.io/sumiii_cooore-interaction/)
 
-### [Arianne](-disabled)
+### [Arianne](https://github.com/ariannezhang/corelab)
 
-[Github Pages Site](-disabled)
+[https://ariannezhang.github.io/corelab/](https://ariannezhang.github.io/corelab)
+
+---
+
+### [Andrew](https://github.com/AndrewLevinson/symmetrical-octo-potato)
+
+[https://andrewlevinson.github.io/symmetrical-octo-potato/](https://andrewlevinson.github.io/symmetrical-octo-potato/)
 
 ## <br><br>
 

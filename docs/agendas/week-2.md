@@ -45,13 +45,29 @@ sidebar: auto
 ### Friday, 1/31
 
 - Discuss grading and attendence policy
-- Talk about how to save and store your work
-- Review homework (be prepared to talk through your process!)
-- [Lesson 2](./-disabled)
+- Review homework and git/github issues
+- [Lesson 2: Intro to Structure & Style](../lessons/lab/lesson-2)
 
 ### Homework
 
-- Using today’s lesson, improve upon your Github Pages index.html. HTML and CSS should practice best practices outlined in class
-- TBD
+- Using today’s lesson, improve upon your Github Pages index.html. HTML and CSS should showcase best practices outlined in class. You can reference the in-class example we worked through [here](https://github.com/AndrewLevinson/symmetrical-octo-potato)
 
-<b>Due Date:</b> By the start of the next lab, 2/7
+  ::: warning
+
+  While last week's assignment was more about completeness, this time I will evaluate based on <b>corectness</b>. Think about your folder and file hierarchy, html structure, tag selection, and css organization.
+  :::
+
+- Read this (very short) article on [The CSS Cascade](https://wattenberger.com/blog/css-cascade) from Amelia Wattenberger before next class. We'll discuss specificity and the cascade in more detail in next week's lab.
+- Read this article on [box-sizing](https://css-tricks.com/box-sizing/) from Marie Mosley at CSS Tricks to learn why you likely want to add the following code to the top of your CSS stylesheets:
+  ```css
+  html {
+    box-sizing: border-box;
+  }
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  ```
+
+<b>Due Date:</b> All due by the start of the next lab, 2/7

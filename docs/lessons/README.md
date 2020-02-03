@@ -13,7 +13,9 @@ Lab Lesson 1: [The Developer Environment](./lab/lesson-1)
 
 ## Week 2
 
-[Studio Slides](./-disabled)
+[Studio Slides](https://docs.google.com/presentation/d/1Fwhw4LkZcOkrJRvXeqncjkxkEEjfF1_Esomp2z5GO5g/edit?usp=sharing)
+[Studio Slides](https://docs.google.com/presentation/d/1QwO4NotqeEahPXbv0aIXFPggqWt5xNiy2t3WWgmax88/edit?usp=sharing)
+
 
 Lab Lesson 2: [Intro to Structure & Style](./lab/lesson-2)
 

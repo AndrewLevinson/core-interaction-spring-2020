@@ -3,7 +3,7 @@ title: Week 3 Agenda
 sidebar: auto
 ---
 
-# Week 2 Agenda
+# Week 3 Agenda
 
 ## Studio
 
@@ -11,14 +11,13 @@ sidebar: auto
 
 - Theory of Color
 - Intro to typography
-- Interface Design Analysis 
-- 15 minute excersise 
+- Interface Design Analysis
+- 15 minute excersise
 - Question for '?'
 
 ### Homework
 
 - Use both HTML and CSS. Only use the following CSS properties: Padding Border, margin, position, display, float, top, right, bottom, left, height, width, background-color, Color
-
 
 ### Thursday, 2/6
 
@@ -31,13 +30,15 @@ sidebar: auto
 
 - Use both HTML and CSS. In addition to the CSS properties allowed in before, you can use any of the following CSS properties: Font-style, Font-weight, Font-size, Font-family, Text-align, Line-height, Letter-spacing, Text-transform
 
-
 ## Lab
 
 ### Friday, 2/7
 
-- [add]
+- Sophomore Work Collection
+- Review Homework
+- Review Andrew's [class example site](https://github.com/AndrewLevinson/symmetrical-octo-potato)
+- [Lesson 3: CSS Styling](../lessons/lab/lesson-3-disabled)
 
 ### Homework
 
-- [add]
+- Using only this [HTML starter provided](-disabled), use CSS to create <b>three (3) uniquely styled websites</b>. Consider typography, element positioning, and page/section layout.

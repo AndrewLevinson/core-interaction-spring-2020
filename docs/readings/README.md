@@ -26,6 +26,11 @@ Readings should be completed by <b>beginning</b> of class
 1. Orit Gat, Unbound, The Politics of Scanning [here](https://rhizome.org/editorial/2014/oct/9/unbound-politics-scanning/)
 2. Keller Easterling, An Internet of Things [Here](https://www.e-flux.com/journal/31/68189/an-internet-of-things/)
 
+#### 02/04
+
+1. Orit Gat, Unbound, The Politics of Scanning [Download](../paul.pdf)
+2. Keller Easterling, An Internet of Things [Here](https://jongacnik.com/text/on-observing-time)
+
 #### Week 3 Lab Readings
 
 1. [The CSS Cascade](https://wattenberger.com/blog/css-cascade) by Amelia Wattenberger

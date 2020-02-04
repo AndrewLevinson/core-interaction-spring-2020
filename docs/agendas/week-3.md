@@ -42,3 +42,5 @@ sidebar: auto
 ### Homework
 
 - Using only this [HTML starter provided](-disabled), use CSS to create <b>three (3) uniquely styled websites</b>. Consider typography, element positioning, and page/section layout.
+
+<b>Due Date:</b> Due in 2 Weeks, 2/14

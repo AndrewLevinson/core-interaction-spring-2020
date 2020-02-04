@@ -28,7 +28,7 @@ Readings should be completed by <b>beginning</b> of class
 
 #### 02/06
 
-1. Paul Elliman, My Typographies [Download](../paul.pdf)
+1. Paul Elliman, My Typographies [Here](http://talking-digital.net/library/MyTypographies.pdf)
 2. Jon Gacnik, On Observing Time [Here](https://jongacnik.com/text/on-observing-time)
 
 #### Week 3 Lab Readings

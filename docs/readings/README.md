@@ -28,8 +28,8 @@ Readings should be completed by <b>beginning</b> of class
 
 #### 02/06
 
-1. Orit Gat, Unbound, The Politics of Scanning [Download](../paul.pdf)
-2. Keller Easterling, An Internet of Things [Here](https://jongacnik.com/text/on-observing-time)
+1. Paul Elliman, My Typographies [Download](../paul.pdf)
+2. Jon Gacnik, On Observing Time [Here](https://jongacnik.com/text/on-observing-time)
 
 #### Week 3 Lab Readings
 

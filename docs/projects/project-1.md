@@ -63,22 +63,11 @@ Line-height {}<br>
 Letter-spacing {}<br>
 Text-transform {}<br>
 
-<b>02/11</b>
+<b>Week 11-13</b>
 — Have a website of at least 3 linked pages 
-— Have at least three different versions of the website based on the following words:
+— Have two different versions of the website based on the following words:
 1. Obscure 
-2. Light
-3. Fun <br>
+2. Light <br>
 — Have a navigation bar
 
-<b>02/13</b>
-— Have the website up and running in your GitHub repository 
-— Have at least 5 linked pages
-— Have at least five different versions of the website based on the following words:
-1. Obscure 
-2. Light
-3. Fun
-4. Warm
-5. Basic <br>
-— Your website should have simple CSS animation
 

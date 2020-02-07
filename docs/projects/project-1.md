@@ -20,14 +20,14 @@ We will collect all the website in a giant online garden. Come to class prepared
 <b> 01/23 </b>
 — Introduction of the exercises
 
-<b> 01/28 </b>
+<b> 01/28 </b> <br>
 — Choice between Perec and Alexander
 — Only use HTML (no CSS of any kind). In addition to the required html, head, title, and body elements, you can use any of the following HTML elements: <br>
 p, 
 br,<br>
 — Have your page ready to review in class
 
-<b> 01/30 </b>
+<b> 01/30 </b> <br>
 — Only use HTML (no CSS of any kind). In addition to the elements allowed in Level 1, use any of the following HTML elements:<br>
 div,<br>
 header,<br>
@@ -39,7 +39,7 @@ em,<br>
 ol, ul, li,<br>
 a (Do not link to external sites, but you can link to parts of your text using an attribute to assign an id)
 
-<b>02/04 </b>
+<b>02/04 </b> <br>
 — Use both HTML and CSS. Only use the following CSS properties: <br>
 Padding {}<br>
 Border {}<br>
@@ -52,7 +52,7 @@ height, width{}<br>
 background-color {} <br>
 color <br>
 
-<b>02/06 </b>
+<b>02/06 </b> <br>
 — Use both HTML and CSS. In addition to the CSS properties allowed in before, you can use any of the following CSS properties:
 Font-style {}<br>
 Font-weight {}<br>
@@ -63,22 +63,12 @@ Line-height {}<br>
 Letter-spacing {}<br>
 Text-transform {}<br>
 
-<b>02/11</b>
-— Have a website of at least 3 linked pages 
-— Have at least three different versions of the website based on the following words:
-1. Obscure 
-2. Light
-3. Fun <br>
-— Have a navigation bar
+<b>Week 11-13</b> <br>
+Use HTML and CSS, no images. <br>
+You need to have:
+1. Website of today (you can change stuff)
+2. The same website that needs to feel 'OBSCURE'
+3. The same website that needs to feel 'LIGHT' <br>
+— A navigation bar to switch between these three websites
 
-<b>02/13</b>
-— Have the website up and running in your GitHub repository 
-— Have at least 5 linked pages
-— Have at least five different versions of the website based on the following words:
-1. Obscure 
-2. Light
-3. Fun
-4. Warm
-5. Basic <br>
-— Your website should have simple CSS animation
 

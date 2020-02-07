@@ -64,10 +64,11 @@ Letter-spacing {}<br>
 Text-transform {}<br>
 
 <b>Week 11-13</b> <br>
-— Have a website of at least 3 linked pages <br>
-— Have two different versions of the website based on the following words: <br>
-1. Obscure 
-2. Light <br>
-— Have a navigation bar
+Use HTML and CSS, no images. <br>
+You need to have:
+1. Website of today (you can change stuff)
+2. The same website that needs to feel 'OBSCURE'
+3. The same website that needs to feel 'LIGHT' <br>
+— A navigation bar to switch between these three websites
 
 

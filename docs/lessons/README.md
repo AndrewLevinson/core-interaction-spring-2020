@@ -23,4 +23,4 @@ Lab Lesson 2: [Intro to Structure & Style](./lab/lesson-2)
 
 [Studio Slides](./-disabled)
 
-Lab Lesson 3: [Typography, Position, and Layout with CSS — Part I](./lab/lesson-3-disabled)
+Lab Lesson 3: [Typography, Position, and Layout with CSS — Part I](./lab/lesson-3)

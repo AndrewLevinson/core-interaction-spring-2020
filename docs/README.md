@@ -53,27 +53,27 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 ### [Eesha](https://github.com/eesha3/core-lab-interaction)
 
-[https://eesha3.github.io/core-lab-interaction/](https://eesha3.github.io/core-lab-interaction/)
+[https://eesha3.github.io/core-lab-interaction/](https://eesha3.github.io/core-lab-interaction/index.html)
 
 ### [Madeline](https://github.com/madelinebenfield/mads)
 
-[https://madelinebenfield.github.io/mads/](https://madelinebenfield.github.io/mads/)
+[https://madelinebenfield.github.io/mads/](https://madelinebenfield.github.io/mads/index.html)
 
 ### [Sia](https://github.com/siabishnoi/core-interaction)
 
-[https://siabishnoi.github.io/core-interaction/](https://siabishnoi.github.io/core-interaction/)
+[https://siabishnoi.github.io/core-interaction/](https://siabishnoi.github.io/core-interaction/index.html)
 
 ### [Paul](https://github.com/brockpaul/CoreInteraction)
 
-[https://brockpaul.github.io/CoreInteraction/](https://brockpaul.github.io/CoreInteraction/)
+[https://brockpaul.github.io/CoreInteraction/](https://brockpaul.github.io/CoreInteraction/index.html)
 
 ### [Ella](https://github.com/chrie280/interaction-lab-rat)
 
-[https://chrie280.github.io/interaction-lab-rat/](https://chrie280.github.io/interaction-lab-rat/)
+[https://chrie280.github.io/interaction-lab-rat/](https://chrie280.github.io/interaction-lab-rat/index.html)
 
 ### [Aaron](https://github.com/dcg199935/Aaron-D)
 
-[https://dcg199935.github.io/Aaron-D/](https://dcg199935.github.io/Aaron-D/)
+[https://dcg199935.github.io/Aaron-D/](https://dcg199935.github.io/Aaron-D/index.html)
 
 ### [Eliz](https://github.com/eyffan/Eliz-Fan)
 
@@ -81,44 +81,66 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 ### [Abbey](https://github.com/grega186/abbeygregs)
 
-[https://grega186.github.io/abbeygregs/](https://grega186.github.io/abbeygregs/)
+[https://grega186.github.io/abbeygregs/](https://grega186.github.io/abbeygregs/index.html)
 
-### [Juri](https://github.com/JuriHan2022/class-example)
+### [Juri](https://github.com/JuriHan2022/SessionK-Studio-)
 
-[https://jurihan2022.github.io/class-example/ ](https://jurihan2022.github.io/class-example/)
+[https://jurihan2022.github.io/SessionK-Studio-/](https://jurihan2022.github.io/SessionK-Studio-/index.html)
 
-### [Yoo-Jin](https://github.com/jangy558/core-lab-interaction)
+### [Yoo-Jin](https://github.com/jangy558/core-interaction)
 
-[https://jangy558.github.io/core-lab-interaction/](https://jangy558.github.io/core-lab-interaction/)
+[https://jangy558.github.io/core-lab-interaction/](https://jangy558.github.io/core-interaction/index.html)
 
 ### [Simran](https://github.com/simrankanwar/core-interaction-spring)
 
-[https://simrankanwar.github.io/core-interaction-spring/](https://simrankanwar.github.io/core-interaction-spring/)
+[https://simrankanwar.github.io/core-interaction-spring/](https://simrankanwar.github.io/core-interaction-spring/index.html)
 
 ### [Jin](https://github.com/ParkMob/CORE-INTERACTION)
 
-[https://parkmob.github.io/CORE-INTERACTION/](https://parkmob.github.io/CORE-INTERACTION/)
+[https://parkmob.github.io/CORE-INTERACTION/](https://parkmob.github.io/CORE-INTERACTION/index.html)
 
 ### [Isabelle](https://github.com/sutti554/core-interaction)
 
-[https://sutti554.github.io/core-interaction/](https://sutti554.github.io/core-interaction/)
+[https://sutti554.github.io/core-interaction/](https://sutti554.github.io/core-interaction/index.html)
 
 ### [Shuming](https://github.com/Summmiii/sumiii_cooore-interaction)
 
-[https://summmiii.github.io/sumiii_cooore-interaction/](https://summmiii.github.io/sumiii_cooore-interaction/)
+[https://summmiii.github.io/sumiii_cooore-interaction/](https://summmiii.github.io/sumiii_cooore-interaction/index.html)
 
 ### [Arianne](https://github.com/ariannezhang/corelab)
 
-[https://ariannezhang.github.io/corelab/](https://ariannezhang.github.io/corelab)
+[https://ariannezhang.github.io/corelab/](https://ariannezhang.github.io/corelab/index.html)
 
----
-
-### [Andrew](https://github.com/AndrewLevinson/symmetrical-octo-potato)
+### [Andrew (instructor)](https://github.com/AndrewLevinson/symmetrical-octo-potato)
 
 [https://andrewlevinson.github.io/symmetrical-octo-potato/](https://andrewlevinson.github.io/symmetrical-octo-potato/)
 
-## <br><br>
+<br><br>
 
-This site is used for the Parsons School of Design Core Interaction course as part of the Communication Design BFA curriculum. Spring 2020.
+## Weekly Lab Presentation Schedule
+
+| Week | Student  |
+| ---- | :------: |
+| 4    | Arianne  |
+| 5    | Shuming  |
+| 6    |   Eliz   |
+| 7    |   Juri   |
+| 8    | Madeline |
+| 8    |   Paul   |
+| 9    |  Abbey   |
+| 9    |   Ella   |
+| 10   | Yoo-Jin  |
+| 10   |  Eesha   |
+| 11   |  Simran  |
+| 11   |   Sia    |
+| 12   |   Jin    |
+| 13   |  Aaron   |
+| 14   | Isabelle |
+
+<br><br>
+
+---
+
+This site is used for the Parsons School of Design Core Interaction course as part of the |Communication Design BFA curriculum. Spring 2020.
 
 [Code Repo](https://github.com/AndrewLevinson/core-interaction-spring-2020) | Submit a pull request if you find a mistake! :computer:

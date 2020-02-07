@@ -37,7 +37,7 @@ sidebar: auto
 - [Sophomore Work Collection](https://mailchi.mp/af7239312d45/sophomore-work-collection?e=7372ac6315)
 - Discuss "Present a Website to the Class" [schedule](https://docs.google.com/spreadsheets/d/1ZLs2MEZhbOPJz6kPV7nZ0nnJnQ0087rqwlZyL0UbFCY/edit?usp=sharing) and expectations now beginning week 4 (Feb 14)
   ::: tip From the Lab Syllabus...
-  Every class will begin with a student presenting on a public website they find interesting. The student is expected to facilitate a discussion with the class to dig into how the site was built. Explanations of features and outstanding questions are expected. These will begin in our week 3 class meeting on Feb 7th. Post your submission on your Github page prior to your week.
+  Every class will begin with a student presenting on a public website they find interesting. The student is expected to facilitate a discussion with the class to dig into how the site was built. Explanations of features and outstanding questions are expected. These will begin in our week 4 class meeting on Feb 14th. Post your submission on your Github page prior to your week.
   :::
 - Review Homework
   <!-- - Review Andrew's [class example site](https://github.com/AndrewLevinson/symmetrical-octo-potato) -->

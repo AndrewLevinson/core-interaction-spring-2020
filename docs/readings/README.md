@@ -35,3 +35,13 @@ Readings should be completed by <b>beginning</b> of class
 
 1. [The CSS Cascade](https://wattenberger.com/blog/css-cascade) by Amelia Wattenberger
 2. [CSS box-sizing](https://css-tricks.com/box-sizing/) by Marie Mosley at CSS Tricks
+
+## Week 4 Studio
+
+#### 02/11
+
+#### 02/13
+
+#### Week 4 Lab Readings
+
+1. [An animated guide to flexbox](https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/)

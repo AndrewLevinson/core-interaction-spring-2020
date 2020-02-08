@@ -18,6 +18,8 @@ Howdy! This will be your main resource for the Studio and Lab Sections K Spring 
 
 ### [Week 3](./agendas/week-3) <span class="current">current</span>
 
+### [Week 4](./agendas/week-4-disabled)
+
 <!--
 ### [Week 4](./agendas/week-4-disabled)
 
@@ -75,9 +77,9 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 [https://dcg199935.github.io/Aaron-D/](https://dcg199935.github.io/Aaron-D/index.html)
 
-### [Eliz](https://github.com/eyffan/Eliz-Fan)
+### [Eliz](https://github.com/eyffan/test)
 
-[https://eyffan.github.io/Eliz-Fan/.](https://eyffan.github.io/Eliz-Fan/.)
+[https://eyffan.github.io/test/test-programs/lproject001/homepage.html](https://eyffan.github.io/test/test-programs/lproject001/homepage.html)
 
 ### [Abbey](https://github.com/grega186/abbeygregs)
 
@@ -119,23 +121,28 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 ## Weekly Lab Presentation Schedule
 
-| Week | Student  |
-| ---- | :------: |
-| 4    | Arianne  |
-| 5    | Shuming  |
-| 6    |   Eliz   |
-| 7    |   Juri   |
-| 8    | Madeline |
-| 8    |   Paul   |
-| 9    |  Abbey   |
-| 9    |   Ella   |
-| 10   | Yoo-Jin  |
-| 10   |  Eesha   |
-| 11   |  Simran  |
-| 11   |   Sia    |
-| 12   |   Jin    |
-| 13   |  Aaron   |
-| 14   | Isabelle |
+| Week                             | date    | Student  |
+| -------------------------------- | ------- | :------: |
+| 1                                | Jan. 24 |    —     |
+| 2                                | Jan. 31 |    —     |
+| 3                                | Feb. 7  |    —     |
+| 4                                | Feb. 14 | Arianne  |
+| 5                                | Feb. 21 | Shuming  |
+| 6                                | Feb. 28 |   Eliz   |
+| 7                                | Mar. 6  |   Juri   |
+| 8                                | Mar. 13 | Madeline |
+| 8                                | Mar. 13 |   Paul   |
+| Spring Break :sunny: :palm_tree: | Mar. 20 |    —     |
+| 9                                | Mar. 27 |  Abbey   |
+| 9                                | Mar. 27 |   Ella   |
+| 10                               | Apr. 3  | Yoo-Jin  |
+| 10                               | Apr. 3  |  Eesha   |
+| 11                               | Apr. 10 |  Simran  |
+| 11                               | Apr. 10 |   Sia    |
+| 12                               | Apr. 17 |   Jin    |
+| 13                               | Apr. 24 |  Aaron   |
+| 14                               | May. 1  | Isabelle |
+| 15                               | May. 8  |    —     |
 
 <br><br>
 

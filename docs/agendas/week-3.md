@@ -47,10 +47,10 @@ sidebar: auto
 
 <!-- - Using only this [HTML starter provided](-disabled), use CSS to create <b>three (3) uniquely styled websites</b>. Consider typography, element positioning, and page layout. -->
 
-- Learn Flexbox layout `display: flex` in css by completing [FlexboxFroggy](https://flexboxfroggy.com/)!
-  - Take a screenshot of the levels dropdown to show me that you've completed these exercises!
-  - Add it to your Github by the start of next class
-    - It's okay if you miss some, but most should be colored <b>green</b>
+- Read [An animated guide to flexbox](https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/) for a basic overview of what Flexbox in CSS can do ('flexbox' is just CSS slang for using `display: flex`)
+- Learn Flexbox layout in-depth in css by completing [FlexboxFroggy](https://flexboxfroggy.com/)
+  - Take a screenshot of the levels dropdown (and/or the winner screen) to show me that you've completed these exercises by adding it to your Github by the start of next class!
+    - It's okay if you miss a few, but most should be colored <b>green</b>
     - ![like this](./froggy.png)
 
 <b>Due Date:</b> Due by next lab, 2/14

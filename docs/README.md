@@ -121,28 +121,24 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 ## Weekly Lab Presentation Schedule
 
-| Week                             | date    | Student  |
-| -------------------------------- | ------- | :------: |
-| 1                                | Jan. 24 |    —     |
-| 2                                | Jan. 31 |    —     |
-| 3                                | Feb. 7  |    —     |
-| 4                                | Feb. 14 | Arianne  |
-| 5                                | Feb. 21 | Shuming  |
-| 6                                | Feb. 28 |   Eliz   |
-| 7                                | Mar. 6  |   Juri   |
-| 8                                | Mar. 13 | Madeline |
-| 8                                | Mar. 13 |   Paul   |
-| Spring Break :sunny: :palm_tree: | Mar. 20 |    —     |
-| 9                                | Mar. 27 |  Abbey   |
-| 9                                | Mar. 27 |   Ella   |
-| 10                               | Apr. 3  | Yoo-Jin  |
-| 10                               | Apr. 3  |  Eesha   |
-| 11                               | Apr. 10 |  Simran  |
-| 11                               | Apr. 10 |   Sia    |
-| 12                               | Apr. 17 |   Jin    |
-| 13                               | Apr. 24 |  Aaron   |
-| 14                               | May. 1  | Isabelle |
-| 15                               | May. 8  |    —     |
+| Week                             | date    |    Student     |
+| -------------------------------- | ------- | :------------: |
+| 1                                | Jan. 24 |       —        |
+| 2                                | Jan. 31 |       —        |
+| 3                                | Feb. 7  |       —        |
+| 4                                | Feb. 14 |    Arianne     |
+| 5                                | Feb. 21 |    Shuming     |
+| 6                                | Feb. 28 |      Eliz      |
+| 7                                | Mar. 6  |      Juri      |
+| 8                                | Mar. 13 | Madeline; Paul |
+| Spring Break :sunny: :palm_tree: | Mar. 20 |       —        |
+| 9                                | Mar. 27 |  Abbey; Ella   |
+| 10                               | Apr. 3  | Yoo-Jin; Eesha |
+| 11                               | Apr. 10 |  Simran; Sia   |
+| 12                               | Apr. 17 |      Jin       |
+| 13                               | Apr. 24 |     Aaron      |
+| 14                               | May. 1  |    Isabelle    |
+| 15                               | May. 8  |       —        |
 
 <br><br>
 

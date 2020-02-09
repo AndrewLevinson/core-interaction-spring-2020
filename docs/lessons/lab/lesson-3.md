@@ -92,7 +92,3 @@ button {
 ---
 
 Get started on the [homework](../../agendas/week-3.html#homework-3)
-
-<!-- https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#colors_table -->
-
-<!-- https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals -->

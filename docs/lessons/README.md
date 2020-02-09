@@ -21,6 +21,12 @@ Lab Lesson 2: [Intro to Structure & Style](./lab/lesson-2)
 
 ## Week 3
 
-[Studio Slides](./-disabled)
+[Studio Slides](https://docs.google.com/presentation/d/1LIRcR8Eg-mC9FPuivM_90zT-MKKT11MK1Kw5B1nhzcU/edit?usp=sharing)
 
 Lab Lesson 3: [Typography, Position, and Layout with CSS — Part I](./lab/lesson-3)
+
+## Week 4
+
+[Studio Slides](disabled)
+
+Lab Lesson 4: [Layout, Relative Units, Positioning, Transforms](-diabled)

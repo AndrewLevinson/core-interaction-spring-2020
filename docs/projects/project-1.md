@@ -63,7 +63,7 @@ Line-height {}<br>
 Letter-spacing {}<br>
 Text-transform {}<br>
 
-<b>Week 11-13</b> <br>
+<b>02/11-13</b> <br>
 Use HTML and CSS, no images. <br>
 You need to have:
 1. Website of today (you can change stuff)

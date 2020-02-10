@@ -40,7 +40,13 @@ Readings should be completed by <b>beginning</b> of class
 
 #### 02/11
 
+Please check the google drive folder, week 04
+for: Sia, Ella, Juri, Yoo-Jin, Yeo Jin,  Shuming, Abigail you need to send a reading response (300 words) by Tuesday at 9.40pm
+
 #### 02/13
+
+Please check the google drive folder, week 04
+for: Madeline, Eesha, Paul, Aaron, Eliz, Simran, Isabelle, Arianne you need to send a reading response (300 words) by Thursday at 9.40pm
 
 #### Week 4 Lab Readings
 

@@ -29,6 +29,6 @@ Lab Lesson 3: [Typography, Position, and Layout with CSS — Part I](./lab/lesso
 
 ## Week 4
 
-[Studio Slides](disabled)
+[Studio Slides](-disabled)
 
-Lab Lesson 4: [Layout, Relative Units, Positioning, Transforms](-diabled)
+Lab Lesson 4: [Layout, Relative Units, Positioning, Transforms](-disabled)

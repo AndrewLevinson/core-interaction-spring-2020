@@ -9,7 +9,7 @@ sidebar: auto
 
 ### Tuesday, 2/11
 
-- 1:1 Meetings 
+- 1:1 Meetings
 - 07.00 Madeline
 - 07.20 Eesha
 - 07.40 Paul
@@ -22,10 +22,12 @@ sidebar: auto
 ### Homework
 
 - Use HTML and CSS, no images. <br>
-You need to have:
+  You need to have:
+
 1. Website of today (you can change stuff)
 2. The same website that needs to feel 'OBSCURE'
 3. The same website that needs to feel 'LIGHT'
+
 - A navigation bar to switch between these three websites
 
 ### Thursday, 2/13
@@ -42,17 +44,21 @@ You need to have:
 ### Homework
 
 - Use HTML and CSS, no images. <br>
-You need to have:
+  You need to have:
+
 1. Website of today (you can change stuff)
 2. The same website that needs to feel 'OBSCURE'
 3. The same website that needs to feel 'LIGHT'
+
 - A navigation bar to switch between these three websites
 
 ## Lab
 
 ### Friday, 2/14
 
-- [TBD]
+- Week 4 Student Presentation (Arianne)
+- Review homework
+- [Lesson 4: CSS Styling (continued)](../lessons/lab/lesson-4-disabled)
 
 ### Homework
 

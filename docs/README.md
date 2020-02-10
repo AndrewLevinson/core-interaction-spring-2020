@@ -144,6 +144,6 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 ---
 
-This site is used for the Parsons School of Design Core Interaction course as part of the |Communication Design BFA curriculum. Spring 2020.
+This site is used for the Parsons School of Design Core Interaction course as part of the Communication Design BFA curriculum. Spring 2020.
 
 [Code Repo](https://github.com/AndrewLevinson/core-interaction-spring-2020) | Submit a pull request if you find a mistake! :computer:

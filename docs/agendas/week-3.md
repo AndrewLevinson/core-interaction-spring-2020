@@ -49,7 +49,7 @@ sidebar: auto
 
 - Read [An animated guide to flexbox](https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/) for a basic overview of what Flexbox in CSS can do ('flexbox' is just CSS slang for using `display: flex`)
 - Learn Flexbox layout in-depth in css by completing [FlexboxFroggy](https://flexboxfroggy.com/)
-  - Take a screenshot of the levels dropdown (and/or the winner screen) to show me that you've completed these exercises by adding it to your Github by the start of next class!
+  - Take a screenshot of the levels dropdown (and/or the winner screen) to show me that you've completed these exercises by <b>adding it to your Github by the start of next class</b>!
     - It's okay if you miss a few, but most should be colored <b>green</b>
     - ![like this](./froggy.png)
 

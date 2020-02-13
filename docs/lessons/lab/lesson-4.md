@@ -11,3 +11,5 @@ sidebar: auto
 <!-- https://learn.shayhowe.com/html-css/working-with-typography/ -->
 
 <!-- https://codepen.io/jorgecardoso/post/exercises-css-positioning -->
+
+<!-- mondrian with transforms, grid, flex -->

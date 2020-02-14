@@ -63,5 +63,7 @@ sidebar: auto
 ### Homework
 
 - Create a newspaper homepage layout using CSS Grid!
+  - Consider flexible units
+  - Amazing CSS Grid resource for reference (not required) is [Wes Bos' Grid Tutorial](https://cssgrid.io/)
 
 <b>Due Date:</b> Due by next lab, 2/21

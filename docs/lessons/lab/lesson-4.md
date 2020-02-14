@@ -29,10 +29,10 @@ sidebar: auto
 ## Advanced Positioning
 
 ::: tip Activity! Mondrian
-Create a [Mondrian](https://www.google.com/search?q=mondrian+layout&rlz=1C5CHFA_enUS720US720&sxsrf=ACYBGNSqRbQMunUGuJ9eafsv3Hm4dfnVeg:1581699889166&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjls6Ogw9HnAhVjg-AKHRr7DI0Q_AUoAXoECA4QAw&biw=1440&bih=722) <b>without</b> flexbox or grid. Only use `position` and `transform` in CSS.
+Create a [Mondrian](https://www.google.com/search?q=mondrian+layout&rlz=1C5CHFA_enUS720US720&sxsrf=ACYBGNSqRbQMunUGuJ9eafsv3Hm4dfnVeg:1581699889166&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjls6Ogw9HnAhVjg-AKHRr7DI0Q_AUoAXoECA4QAw&biw=1440&bih=722) <b>without</b> flexbox or grid. Only use `position` and/or`transform` in CSS.
 :::
 
-<b>[Here's the link](https://codepen.io/andrew_levinson/pen/NWqxmog) to Andrew's in-class Mondrian with `position: absolute` on the boxes</b>
+<b>[Here's the link](https://codepen.io/andrew_levinson/pen/NWqxmog) to Andrew's completed in-class Mondrian with `position: absolute` on the boxes</b>
 
 ## Layout in CSS
 
@@ -48,14 +48,14 @@ Let's do a few examples!
 ### CSS Grid
 
 ::: tip Activity! CSS Grid
-By the same makers of Flexbox Froggy, comes [Grid Garden](https://cssgridgarden.com/). Let's work through of few of these as a class to understand `CSS Grid`. It is more complex, but much more powerful, than Flexbox.
+By the same makers of Flexbox Froggy, comes [Grid Garden](https://cssgridgarden.com/). Let's work through of few of these as a class to understand CSS Grid. It is more complex, but much more powerful, than Flexbox.
 :::
 
 ::: tip Activity!
-Let's rebuild our Mondrian with Grid. Take some time on your own to try. Andrew will rebuild at front of class and take questions.
+Let's rebuild our Mondrian with Grid. Andrew to present completed version but take some time playing around with it on codepen to really understand how it's working.
 :::
 
-<b>[Here's the link](https://codepen.io/andrew_levinson/pen/RwPrdzv) to Andrew's in-class Mondrian using `display: grid`</b>
+<b>[Here's the link](https://codepen.io/andrew_levinson/pen/RwPrdzv) to Andrew's completed in-class Mondrian using `display: grid`</b>
 
 ---
 
@@ -63,7 +63,7 @@ Let's rebuild our Mondrian with Grid. Take some time on your own to try. Andrew 
 
 - Amazing CSS Grid resource for reference (not required) is [Wes Bos' Grid Tutorial](https://cssgrid.io/)
 - [Sarah Drasner Grid Generator Tool](https://cssgrid-generator.netlify.com/)
--
+- [Grid Garden game](https://cssgridgarden.com/)
 
 <!--
 ### Layout Fun

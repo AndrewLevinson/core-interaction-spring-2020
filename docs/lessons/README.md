@@ -31,4 +31,4 @@ Lab Lesson 3: [Typography, Position, and Layout with CSS — Part I](./lab/lesso
 
 [Studio Slides](-disabled)
 
-Lab Lesson 4: [Layout, Relative Units, Positioning, Transforms](./lab/lesson-4)
+Lab Lesson 4: [CSS Layout (continued)](./lab/lesson-4)

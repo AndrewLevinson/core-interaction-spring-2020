@@ -57,15 +57,21 @@ sidebar: auto
 ### Friday, 2/14
 
 - Week 4 Student Presentation (Arianne)
-  <!-- - Review [homework](https://flexboxfroggy.com/) -->
 - [Lesson 4: CSS Layout (continued)](../lessons/lab/lesson-4)
 
 ### Homework
 
-- Create a newspaper homepage layout using CSS Grid!
+1. Create a newspaper homepage layout using CSS Grid!
+
+- Things to keep in mind:
+  - Only create the paper's homepage; article links should just go no where `<a href="#">example</a>`
+  - Make sure to use flexible units when defining your `grid-template-columns` and `grid-template-rows` (i.e., `repeat(5, 1fr)`) and make your container responsive as well (using `vh` and `vw` or percentages instead of `px`). The more it feels like a real digital newspaper the better.
+  - Use the CSS styling you already know in addition to css grid to make it look nice!
   - Need help?
     - Reference our in-class Mondrian example [here](https://codepen.io/andrew_levinson/pen/RwPrdzv)
-    - Amazing CSS Grid resource for reference is [Wes Bos' Grid Tutorial](https://cssgrid.io/)
+    - Reference the [CSS Grid Garden game](https://cssgridgarden.com/) we reviewed in class
+    - Amazing but long free CSS Grid tutorial resource: [Wes Bos' Grid Tutorial](https://cssgrid.io/)
     - [Sarah Drasner Grid Generator Tool](https://cssgrid-generator.netlify.com/)
+      - :hand: _Try to work it out on your own before generating a grid with this tool!_
 
-<b>Due Date:</b> Due by next lab, 2/21
+<b>Due Date:</b> Uploaded to your Github repo and accessible via a link on your course homapge by next lab, 2/21

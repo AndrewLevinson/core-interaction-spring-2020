@@ -65,5 +65,6 @@ sidebar: auto
 - Create a newspaper homepage layout using CSS Grid!
   - Consider flexible units
   - Amazing CSS Grid resource for reference (not required) is [Wes Bos' Grid Tutorial](https://cssgrid.io/)
+  - [Sarah Drasner Grid Generator Tool](https://cssgrid-generator.netlify.com/)
 
 <b>Due Date:</b> Due by next lab, 2/21

@@ -57,9 +57,11 @@ sidebar: auto
 ### Friday, 2/14
 
 - Week 4 Student Presentation (Arianne)
-- Review homework
-- [Lesson 4: CSS Styling (continued)](../lessons/lab/lesson-4-disabled)
+  <!-- - Review [homework](https://flexboxfroggy.com/) -->
+- [Lesson 4: CSS Layout (continued)](../lessons/lab/lesson-4)
 
 ### Homework
 
-- [TBD]
+- Create a newspaper homepage layout using CSS Grid!
+
+<b>Due Date:</b> Due by next lab, 2/21

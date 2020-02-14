@@ -32,6 +32,8 @@ sidebar: auto
 Create a [Mondrian](https://www.google.com/search?q=mondrian+layout&rlz=1C5CHFA_enUS720US720&sxsrf=ACYBGNSqRbQMunUGuJ9eafsv3Hm4dfnVeg:1581699889166&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjls6Ogw9HnAhVjg-AKHRr7DI0Q_AUoAXoECA4QAw&biw=1440&bih=722) <b>without</b> flexbox or grid. Only use `position` and `transform` in CSS.
 :::
 
+<b>[Here's the link](https://codepen.io/andrew_levinson/pen/NWqxmog) to Andrew's in-class Mondrian with `position: absolute` on the boxes</b>
+
 ## Layout in CSS
 
 There are plenty of ways to create a layout in CSS, from hacky old-school `float` to modern css grid. We are going to familiarize ourselves with the modern approaches like `display: flex` and `display: grid` as these are the most powerful techniques to building a beautiful site.
@@ -52,6 +54,16 @@ By the same makers of Flexbox Froggy, comes [Grid Garden](https://cssgridgarden.
 ::: tip Activity!
 Let's rebuild our Mondrian with Grid. Take some time on your own to try. Andrew will rebuild at front of class and take questions.
 :::
+
+<b>[Here's the link](https://codepen.io/andrew_levinson/pen/RwPrdzv) to Andrew's in-class Mondrian using `display: grid`</b>
+
+---
+
+#### Some good CSS Grid Resources
+
+- Amazing CSS Grid resource for reference (not required) is [Wes Bos' Grid Tutorial](https://cssgrid.io/)
+- [Sarah Drasner Grid Generator Tool](https://cssgrid-generator.netlify.com/)
+-
 
 <!--
 ### Layout Fun

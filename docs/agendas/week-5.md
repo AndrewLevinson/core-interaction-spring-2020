@@ -16,7 +16,6 @@ sidebar: auto
 
 CRITIQUE DAY. Be ready to present your 3 website for 2 minute
 
-
 ### Thursday, 2/19
 
 - Review project 02
@@ -31,7 +30,8 @@ CRITIQUE DAY. Be ready to present your 3 website for 2 minute
 
 ### Friday, 2/14
 
-- [TBD]
+- Week 5 Student Presentation (Shuming)
+- Review CSS Grid Homework
 
 ### Homework
 

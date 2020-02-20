@@ -32,3 +32,9 @@ Lab Lesson 3: [Typography, Position, and Layout with CSS — Part I](./lab/lesso
 [Studio Slides](-disabled)
 
 Lab Lesson 4: [CSS Layout (continued)](./lab/lesson-4)
+
+## Week 5
+
+[Studio Slides](-disabled)
+
+Lab Lesson 5: [CSS Fun: animation, transforms, variables, and more](./lab/lesson-5-disabled)

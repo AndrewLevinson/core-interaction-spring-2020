@@ -32,8 +32,8 @@ CRITIQUE DAY. Be ready to present your 3 website for 2 minute
 
 - Week 5 Student Presentation (Shuming)
 - Review CSS Grid Homework
-- CSS layout with Flex and Grid Q&A / Summary
-- [Lesson 5: CSS Fun: animation, transforms, variables, and more](../lessons/lab/lesson-5-disabled)
+- CSS Grid Summary (any questions answered)
+- [Lesson 5: CSS fun with animation](../lessons/lab/lesson-5-disabled)
 
 ### Homework
 

@@ -9,7 +9,7 @@ This will be a quick one, but css variables, officially titled `CSS custom prope
 
 You define them once, and then use them throughout your style sheets. This is beneficial because if you need to change a value, you only change it once—where it's defined—as oppossed to changing it everywhere it is used.
 
-### Basic Usage
+## Basic Usage
 
 ```css
 /* first, define your variable. we will use 'global' variables for now */
@@ -32,3 +32,7 @@ section {
 It's as simple as that. In later lessons, we'll learn how to manipulate css variable values using JavaScript.
 
 For more information, google some tutorials and checkout the official MDN docs on [css custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+
+---
+
+Let's get started on the [homework →](../../agendas/week-5.html#homework-3)

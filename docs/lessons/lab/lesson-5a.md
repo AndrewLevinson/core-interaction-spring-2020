@@ -124,4 +124,4 @@ Challenge: Using a @keyframes animation, create a 200px x 200px circle that boun
 
 ---
 
-Let's get started on the [homework](../../agendas/week-5.html#homework-3)
+<b>Next</b>: [CSS Variables →](./lesson-5b)

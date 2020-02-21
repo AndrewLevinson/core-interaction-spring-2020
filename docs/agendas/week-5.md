@@ -28,7 +28,7 @@ CRITIQUE DAY. Be ready to present your 3 website for 2 minute
 
 ## Lab
 
-### Friday, 2/14
+### Friday, 2/21
 
 - Week 5 Student Presentation (Shuming)
 - Review CSS Grid Homework

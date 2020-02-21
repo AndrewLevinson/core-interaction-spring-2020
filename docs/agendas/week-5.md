@@ -47,7 +47,7 @@ CRITIQUE DAY. Be ready to present your 3 website for 2 minute
   - Include [CSS variables](../lessons/lab/lesson-5b) for things like colors and animation properties
   - <b>bonus challenge</b>: animate a pseudo-element like `::after` or `::before`
 
-<i>Need help? check out our week 5 lessons, the MDN docs for `transition` and `animation` and reference Andrew's in-class Codepens listed on the [instructor site README.md](https://github.com/AndrewLevinson/symmetrical-octo-potato)</i>
+<i>Need help? check out our week 5 lessons, the MDN docs for [transition](https://developer.mozilla.org/en-US/docs/Web/CSS/transition) and [animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation) and reference Andrew's in-class Codepens listed on the [instructor site README.md](https://github.com/AndrewLevinson/symmetrical-octo-potato)</i>
 
 - Next Up for our weekly presentation of a public site: Eliz
 

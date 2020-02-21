@@ -7,7 +7,7 @@ sidebar: auto
 
 ## CSS Animation
 
-[Here's a full list](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties) of animiatable properties. There's a lot on here (some are actually misleading, and come with poor performance) but basically, stick to <b>opacity</b> and <b>transforms</b>.
+[Here's a full list](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties) of animiatable properties. There's a lot on here (some are actually misleading, and come with poor performance) but basically, stick to <b>opacity</b> and <b>transform</b> whenever possible.
 
 There's two ways to animate with css properties—`transition` and `animation` (`@keyframes`)
 
@@ -38,7 +38,7 @@ Here's a table of the different transition properties you can apply
 | `transition-delay`           | Duration to wait before starting a property's transition effect                                  | `2s`                    |
 
 ::: tip Activate!
-Individual Challenges—will be graded for completion—make sure it makes it to your repository. Codepen's are ok
+Individual Challenges—will be graded for completion—make sure it makes it to your repository so I can find it. Codepen's are ok
 
 1. Create a 200px x 200px box with a background color of black
 
@@ -70,7 +70,7 @@ We define our animation using `@keyframes`
 ```css
 /* defining the animation */
 
-/* using 'from' and 'to' */
+/* 1. using 'from' and 'to' */
 @keyframes pulse {
   from {
     transform: scale(0.5);
@@ -81,7 +81,7 @@ We define our animation using `@keyframes`
     opacity: 1;
   }
 }
-/* using percentages */
+/* 2. using percentages */
 @keyframes pulse {
   0% {
     transform: scale(0.25);
@@ -107,10 +107,21 @@ We use our animation by including the `animation` property on a selected id, cla
 ```css
 /* using your animation */
 .my-element {
+  /*  here I use: name | duration | timing-function | direction | count*/
   animation: pulse 0.3s linear forwards infinite;
 }
 ```
 
-<!-- https://www.sitepoint.com/how-to-get-started-with-css-animation/ -->
+Here's a good reference for all the [Animation Properties](https://www.sitepoint.com/how-to-get-started-with-css-animation/#animation-properties) available in the `animation` property shorthand
 
-<!-- https://developer.mozilla.org/en-US/docs/Web/CSS/animation -->
+And here's the official [MDN animation docs](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
+
+::: tip Quick Activity!
+Add a keyframe animation to your in-class work for today
+
+Challenge: Using a @keyframes animation, create a 200px x 200px circle that bounces up and down 10 times as smoothly as possible
+:::
+
+---
+
+Let's get started on the [homework](../../agendas/week-5.html#homework-3)

@@ -7,7 +7,7 @@ sidebar: auto
 
 ## CSS Animation
 
-[Here's a full list](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties) of animiatable properties. There's a lot on here (some are actually misleading) but basically, stick to <b>opacity</b> and <b>transforms</b>, and <b>color transitions</b>.
+[Here's a full list](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties) of animiatable properties. There's a lot on here (some are actually misleading, and come with poor performance) but basically, stick to <b>opacity</b> and <b>transforms</b>.
 
 There's two ways to animate with css properties—`transition` and `animation` (`@keyframes`)
 

@@ -46,14 +46,14 @@ Using `transition`, animate the following on `:hover`:
 
 2. Rotate the box 360 degrees
 3. Scale the box from 0.5 to 3
-4. Choose a `transition-timing-function`
+4. Choose a `transition-timing-function` and a `transition-duration`
 5. Change the color from black to a different color
 6. Animate 2 more properties of your choosing
 7. Add a 1 second delay
 
 <i>Next, Make 4 copies of the box in the html and place them inside a container div</i>
 
-8. Bonus: Animate all the boxes simultaneously when hovering anywhere on the container
+8. Bonus: Animate all the boxes simultaneously when hovering anywhere on the parent container
 
 Need help? [Check out the MDN web docs for transition](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
 

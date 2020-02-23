@@ -40,3 +40,9 @@ Lab Lesson 4: [CSS Layout (continued)](./lab/lesson-4)
 Lab Lesson 5a: [CSS Fun with Animation](./lab/lesson-5a)
 
 Lab Lesson 5b: [CSS Variables](./lab/lesson-5b)
+
+## Week 6
+
+[Studio Slides](-disabled)
+
+Lab Lesson 6: [Intro to JS](./lab/lesson-6-disabled)

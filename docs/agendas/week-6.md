@@ -9,19 +9,27 @@ sidebar: auto
 
 ### Tuesday, 2/25
 
-- [TBA]
+- Persona
+- User Experience
+- CMS
 
 ### Homework
 
-- [TBA]
+- Having one solid direction for your archive and all the 30 images
+- Have all the 50 images on the right size, style and format
+- Bring your initial sketches into a new level (still on paper, indesign or illustrator)
+- Having a strong visual direction and language to use for your website
 
 ### Thursday, 2/27
 
-- [TBA]
+- Digital Strategy
+- Peer-to-peer
+- Machine Learning
 
 ### Homework
 
-- [TBA on Tuesday]
+- HTML and CSS ready to review the homepage
+- Bones of each pages that your website should have (only HTML for those)
 
 ## Lab
 

@@ -35,7 +35,7 @@ Lab Lesson 4: [CSS Layout (continued)](./lab/lesson-4)
 
 ## Week 5
 
-[Studio Slides](-disabled)
+[Studio Slides](https://docs.google.com/presentation/d/1DAbs6pxJrJiWAlPjBWwRKLKdA4jE20K7JootAD4NNz8/edit?usp=sharing)
 
 Lab Lesson 5a: [CSS Fun with Animation](./lab/lesson-5a)
 

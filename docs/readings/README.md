@@ -51,3 +51,24 @@ for: Madeline, Eesha, Paul, Aaron, Eliz, Simran, Isabelle, Arianne you need to s
 #### Week 4 Lab Readings
 
 1. [An animated guide to flexbox](https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/)
+
+## Week 5 Studio
+
+No Reading as a critique week!
+
+## Week 6 Studio
+
+No reading, BUT WORK ON YOUR ARCHIVE!
+
+## Week 7 Studio
+
+#### 03/03
+
+1. Kameelah Janan Rasheed on research and archiving [here](https://thecreativeindependent.com/people/kameelah-janan-rasheed-on-research-and-archiving/)
+2. Ramon Amaro, As if here](https://www.e-flux.com/architecture/becoming-digital/248073/as-if/)
+
+#### 03/05
+
+1. Archives are adapting to an era of digitization and decolonization by ERIKA THORKELSON [here](https://www.universityaffairs.ca/features/feature-article/archives-are-adapting-to-an-era-of-digitization-and-decolonization/)
+2. The Designer as Producer by Ellen Lupton [here](http://elupton.com/2010/10/the-designer-as-producer/)
+

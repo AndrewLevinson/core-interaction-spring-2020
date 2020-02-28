@@ -37,13 +37,14 @@ sidebar: auto
 
 - Week 6 Student Presentation (Eliz)
 - Review CSS Animations Homework
-- [Lesson 6: Intro to JavaScript](../lessons/lab/lesson-6-disabled)
+- Remind class about grading
+- [Lesson 6: Exploring Basic JavaScript](../lessons/lab/lesson-6)
 
 ### Homework
 
-- [tba, JS related]
+- [tba, JS related based on in-class progress]
 
-<i>Need help? check out...tba</i>
+<i>Need help? check out what we did [in class](https://github.com/AndrewLevinson/symmetrical-octo-potato) Our [Resources Page](../resources) will also be updated</i>
 
 - Next Up for our weekly presentation of a public site: Juri
 

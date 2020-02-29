@@ -45,4 +45,4 @@ Lab Lesson 5b: [CSS Variables](./lab/lesson-5b)
 
 [Studio Slides](-disabled)
 
-Lab Lesson 6: [Intro to JS](./lab/lesson-6-disabled)
+Lab Lesson 6: [Exploring Basic JavaScript!](./lab/lesson-6)

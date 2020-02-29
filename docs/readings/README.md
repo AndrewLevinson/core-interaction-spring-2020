@@ -41,7 +41,7 @@ Readings should be completed by <b>beginning</b> of class
 #### 02/11
 
 Please check the google drive folder, week 04
-for: Sia, Ella, Juri, Yoo-Jin, Yeo Jin,  Shuming, Abigail you need to send a reading response (300 words) by Tuesday at 9.40pm
+for: Sia, Ella, Juri, Yoo-Jin, Yeo Jin, Shuming, Abigail you need to send a reading response (300 words) by Tuesday at 9.40pm
 
 #### 02/13
 
@@ -65,10 +65,9 @@ No reading, BUT WORK ON YOUR ARCHIVE!
 #### 03/03
 
 1. Kameelah Janan Rasheed on research and archiving [here](https://thecreativeindependent.com/people/kameelah-janan-rasheed-on-research-and-archiving/)
-2. Ramon Amaro, As if here](https://www.e-flux.com/architecture/becoming-digital/248073/as-if/)
+2. Ramon Amaro, As if [here](https://www.e-flux.com/architecture/becoming-digital/248073/as-if/)
 
 #### 03/05
 
 1. Archives are adapting to an era of digitization and decolonization by ERIKA THORKELSON [here](https://www.universityaffairs.ca/features/feature-article/archives-are-adapting-to-an-era-of-digitization-and-decolonization/)
 2. The Designer as Producer by Ellen Lupton [here](http://elupton.com/2010/10/the-designer-as-producer/)
-

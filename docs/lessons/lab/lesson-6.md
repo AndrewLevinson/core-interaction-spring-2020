@@ -47,12 +47,8 @@ With Simone, you've [learned](https://docs.google.com/presentation/d/1G9JlCkrOPE
 - setting the `innerHTML` of an element to set your generated/manipulated content
 - template literals
 - `Math.random()` and array shuffling for randomization
-- JavaScript events
+- JavaScript events like onClick
 
 :::tip In-Class Code
-Check [Andrew's Site](https://github.com/AndrewLevinson/symmetrical-octo-potato) for our in-class coding examples. I'll maintain this throughout the semester so be sure to check when you need help remembering what we did in class
+Check at the README file on [Andrew's Site](https://github.com/AndrewLevinson/symmetrical-octo-potato) for our in-class coding examples. I'll maintain this throughout the semester so be sure to check when you need help remembering what we did in class
 :::
-
-- Homework? Review the in-class example and please come in with specific javascript questions. Next week we will add interactive elements like button, dropdowns, and sliders to our HTML and learn how to use JavaScript to make them work!
-
-- [How to use a button to trigger a function](https://www.w3schools.com/jsref/event_onclick.asp)

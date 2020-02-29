@@ -42,9 +42,19 @@ sidebar: auto
 
 ### Homework
 
-- [tba, JS related based on in-class progress]
+1. Using the [starter code here](https://github.com/AndrewLevinson/symmetrical-octo-potato/blob/master/lab/week-6/in-class/button.html), create your own `index.html` page that uses a `button` to generate content on the screen.
 
-<i>Need help? check out what we did [in class](https://github.com/AndrewLevinson/symmetrical-octo-potato) Our [Resources Page](../resources) will also be updated</i>
+   - Take a look at the in-class examples listed below to get ideas for how you can generate and manipulate content on the screen when this function runs. <i>For example, what if we randomized the images on the screen every time we clicked the button? How would we have to change the in-class code?</i>
+   - Try to do additional things inside here too. Learn how to set [style in JavaScript](https://www.w3schools.com/jsref/prop_html_style.asp) to change colors, typography, etc.
+
+2. Review the in-class examples linked below and please come in with specific JavaScript questions. Next week we will review and build on our previous lesson by incorporating HTML elements like buttons, select dropdowns, and range sliders in order to generate and filter content for your Archive project
+
+- In-Class Examples
+
+  - [Completed in-class lesson with code comments](https://github.com/AndrewLevinson/symmetrical-octo-potato/blob/master/lab/week-6/in-class/index-comments.html)
+  - [Final version of random image generator](https://github.com/AndrewLevinson/symmetrical-octo-potato/blob/master/lab/week-6/in-class/index-final.html)
+    - Only 5 lines of JavaScript!
+  - [Button Starter Code](https://github.com/AndrewLevinson/symmetrical-octo-potato/blob/master/lab/week-6/in-class/button.html)
 
 - Next Up for our weekly presentation of a public site: Juri
 

@@ -3,7 +3,9 @@ title: JS Lecture
 sidebar: auto
 ---
 
-notes:
+TBD!
+
+<!-- notes:
 
 variable naming conventions. camelCase
 style changes
@@ -14,4 +16,4 @@ style changes
 arrays vs. nodelist in context of arrays can be anything you define, but when you grab items from the DOM, it comes back as a nodelist which you can use just like an array
 
 Array shuffle to solve randomizing issue - No shuffle array method, so we need to do it ourselves - Show css tricks array shuffle
-use time to show how to use code credits in comments
+use time to show how to use code credits in comments -->

@@ -25,13 +25,16 @@ sidebar: auto
 
 - Work on your archive! Now start to bring into life your sketches, using HTML, CSS and Javascript!
 
-
 ## Lab
 
 ### Friday, 3/06
 
-- TBA
+- Week 7 Student Presentation (Juri)
+- Review Homework
+- Questions & JavaScript Lesson
 
 ### Homework
 
-1. TBA
+1. TBD, will be determined based on progress in-class and related to progress on Archive project
+
+- Next up for our weekly presentations of a public site: Madeline; Paul

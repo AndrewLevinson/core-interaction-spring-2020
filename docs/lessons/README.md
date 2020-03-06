@@ -48,3 +48,9 @@ Lab Lesson 5b: [CSS Variables](./lab/lesson-5b)
 [Studio Slides - Thursday](https://docs.google.com/presentation/d/1G9JlCkrOPEGd8LrOAVebjPf4dBk2xmf3goXDfB_UscI/edit#slide=id.g7e47743d1f_0_0)
 
 Lab Lesson 6: [Exploring Basic JavaScript!](./lab/lesson-6)
+
+## Week 7
+
+[Studio Slides](-disabled)
+
+Lab Lesson 7: [Interactive Elements in JavaScript](./lab/lesson-7)

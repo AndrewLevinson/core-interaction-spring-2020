@@ -35,7 +35,7 @@ sidebar: auto
 
 ### Homework
 
-1. Using the [starter code here](https://github.com/AndrewLevinson/symmetrical-octo-potato/blob/master/lab/week-7/select-starter.html), create your own `index.html` page that uses a `select` element to get the value in the dropdown and use it to do <i>something</i> on the screen. (suggestions in the code comments)
+1. Using the [starter code here](https://github.com/AndrewLevinson/symmetrical-octo-potato/blob/master/lab/week-7/select-starter.html), create your own `index.html` page that uses a `<select>` element to get the value in the dropdown and use it to do <i>something</i> on the screen. (suggestions in the code comments)
 
 2. Review the in-class examples linked below and please come in with specific JavaScript questions.
 

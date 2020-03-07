@@ -38,9 +38,7 @@ sidebar: auto
 1. Using the [starter code here](https://github.com/AndrewLevinson/symmetrical-octo-potato/blob/master/lab/week-7/select-starter.html), create your own `index.html` page that uses a `<select>` element to get the value in the dropdown and use it to do <i>something</i> on the screen. (suggestions in the code comments)
 
 2. Review the in-class examples linked below and please come in with specific JavaScript questions.
-
-   - In-Class Examples from March 6
-     - [button homework review](https://github.com/AndrewLevinson/symmetrical-octo-potato/blob/master/lab/week-7/hw-review.html)
-     - [In class lesson with code comments](https://github.com/AndrewLevinson/symmetrical-octo-potato/blob/master/lab/week-7/index-comments.html)
+   - [button homework review](https://github.com/AndrewLevinson/symmetrical-octo-potato/blob/master/lab/week-7/hw-review.html)
+   - [In class lesson with code comments](https://github.com/AndrewLevinson/symmetrical-octo-potato/blob/master/lab/week-7/index-comments.html)
 
 - Next up for our weekly presentations of a public site: Juri; Madeline; Paul

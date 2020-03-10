@@ -71,3 +71,14 @@ No reading, BUT WORK ON YOUR ARCHIVE!
 
 1. Archives are adapting to an era of digitization and decolonization by ERIKA THORKELSON [here](https://www.universityaffairs.ca/features/feature-article/archives-are-adapting-to-an-era-of-digitization-and-decolonization/)
 2. The Designer as Producer by Ellen Lupton [here](http://elupton.com/2010/10/the-designer-as-producer/)
+
+## Week 8 Studio
+
+#### 03/10
+
+Read the readings for 03/03
+
+#### 03/12
+
+Reading the readings for  03/05
+

@@ -51,6 +51,6 @@ Lab Lesson 6: [Exploring Basic JavaScript!](./lab/lesson-6)
 
 ## Week 7
 
-[Studio Slides](-disabled)
+[Studio Slides](https://docs.google.com/presentation/d/1TXQxxI1jnYzVX5wF1lWBj9Oq5R1MrlzddbStGuU9keQ/edit?usp=sharing)
 
 Lab Lesson 7: [Interactive Elements in JavaScript](./lab/lesson-7)

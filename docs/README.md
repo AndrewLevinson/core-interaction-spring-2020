@@ -26,10 +26,10 @@ Howdy! This will be your main resource for the Studio and Lab Sections K Spring 
 
 
 
-### [Week 7](./agendas/week-7) <span class="current">current</span>
-<!--
-### [Week 8](./agendas/week-8-disabled)
+### [Week 7](./agendas/week-7) 
 
+### [Week 8](./agendas/week-8-disabled) <span class="current">current</span>
+<!--
 ### [Week 9](./agendas/week-9-disabled)
 
 ### [Week 10](./agendas/week-10-disabled)

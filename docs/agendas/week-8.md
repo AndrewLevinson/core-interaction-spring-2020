@@ -31,6 +31,8 @@ sidebar: auto
 
 ### Friday, 3/13
 
+- UPDATE: <b>CLASS CANCELED!!</b>
+
 - Meeting via Zoom at [this link](https://NewSchool.zoom.us/j/6890998105)
 - Week 8 student presentations: Juri, Madeline, Paul
 - Review JavaScript to date/walk through sample archive from scratch

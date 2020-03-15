@@ -71,6 +71,15 @@ HTML stands for Hypertext Markup Language. It's used to structure a webpage and 
 - [Grid Garden game](https://cssgridgarden.com/)
 - [CSS Tricks](https://css-tricks.com/)
 - [Lynda: Searching for "CSS"](https://www.lynda.com/search?q=css)
+- [CSS Web-Design Tips](https://uxplanet.org/common-webpage-design-mistakes-59eed9831bd7)
+- [More web design tips](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+
+## JavaScript
+
+- [Wes Bos's JavaScript 30 Tutorials (free)](https://javascript30.com/)
+- [Array Explorer Tool](https://sdras.github.io/array-explorer/)
+- [Array Method article](https://css-tricks.com/an-illustrated-and-musical-guide-to-map-reduce-and-filter-array-methods/)
+- More to come...
 
 ## Webfonts
 
@@ -78,6 +87,8 @@ HTML stands for Hypertext Markup Language. It's used to structure a webpage and 
 - [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator)
 - [Type Sample](http://www.typesample.com/)
 - [Google Fonts](https://fonts.google.com/)
+- [Web Typography Tips](https://design.infinum.com/case/web-typography-tips)
+- [Type Wolf type blog](https://www.typewolf.com/)
 
 ## Debugging
 

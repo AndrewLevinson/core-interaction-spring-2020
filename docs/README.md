@@ -26,7 +26,7 @@ Howdy! This will be your main resource for the Studio and Lab Sections K Spring 
 
 ### [Week 7](./agendas/week-7)
 
-### [Week 8](./agendas/week-8) <span class="current">current</span>
+### [Week 8 (Lab Canceled)](./agendas/week-8) <span class="current">current</span>
 
 ### [Spring Break :sunny: :palm_tree:](-disabled)
 

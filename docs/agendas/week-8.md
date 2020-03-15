@@ -33,10 +33,11 @@ sidebar: auto
 
 - UPDATE: <b>CLASS CANCELED!!</b>
 
-- Meeting via Zoom at [this link](https://NewSchool.zoom.us/j/6890998105)
-- Week 8 student presentations: Juri, Madeline, Paul
-- Review JavaScript to date/walk through sample archive from scratch
-  - [Reference this codebase for our in-class work like usual](https://github.com/AndrewLevinson/symmetrical-octo-potato/tree/master/lab/week-8)
+* ~~Meeting via Zoom at [this link](https://NewSchool.zoom.us/j/6890998105)~~
+* ~~Week 8 student presentations: Juri, Madeline, Paul~~
+* See JavaScript Archive tutorial where I pull together everything we've learned so far
+  - [Live Site](https://andrewlevinson.github.io/symmetrical-octo-potato/lab/week-8/index.html)
+  - [Code with comments](https://github.com/AndrewLevinson/symmetrical-octo-potato/tree/master/lab/week-8)
 
 ### Homework
 

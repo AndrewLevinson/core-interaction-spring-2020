@@ -9,6 +9,6 @@ lang: en-US
 
 ## [2. Archive](./project-2)
 
-## [3. Hand Phone](./project-3-disabled)
+## [3. Hand Phone](./project-3)
 
-## [4. E-Reader](./project-4)
+## [4. S, M, L, XL](./project-4)

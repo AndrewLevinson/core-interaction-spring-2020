@@ -42,3 +42,5 @@ sidebar: auto
    - [In class lesson with code comments](https://github.com/AndrewLevinson/symmetrical-octo-potato/blob/master/lab/week-7/index-comments.html)
 
 - Next up for our weekly presentations of a public site: Juri; Madeline; Paul
+
+<b>Due Date:</b> Uploaded to your Github repo and accessible via a link on your course homapge by next lab, March 13

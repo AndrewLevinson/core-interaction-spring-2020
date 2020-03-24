@@ -26,16 +26,16 @@ Howdy! This will be your main resource for the Studio and Lab Sections K Spring 
 
 ### [Week 7](./agendas/week-7)
 
-### [Week 8 (Lab Canceled)](./agendas/week-8) <span class="current">current</span>
+### [Week 8 (Lab Canceled)](./agendas/week-8)
 
 ### [Spring Break :sunny: :palm_tree:](-disabled)
 
-### [Week 9- Study Week/No Class Meetings](-disabled)
-
-<!--
-### [Week 9](./agendas/week-9-disabled)
+### [Week 9- Study Week/No Class Meetings](./agendas/week-9) <span class="current">current</span>
 
 ### [Week 10](./agendas/week-10-disabled)
+
+<!--
+
 
 ### [Week 11](./agendas/week-11-disabled)
 
@@ -123,7 +123,11 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 ## Weekly Lab Presentation Schedule
 
-| Week                             | date    |       Student        |
+| Week                                                                                                               | date | Student |
+| ------------------------------------------------------------------------------------------------------------------ | ---- | :-----: |
+| <b>Moved to online [Canvas discussion](https://canvas.newschool.edu/courses/1482839/discussion_topics/5754964)</b> | -    |    -    |
+
+<!-- | Week                             | date    |       Student        |
 | -------------------------------- | ------- | :------------------: |
 | 1                                | Jan. 24 |          —           |
 | 2                                | Jan. 31 |          —           |
@@ -140,7 +144,7 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 | 12                               | Apr. 17 |         Jin          |
 | 13                               | Apr. 24 |        Aaron         |
 | 14                               | May. 1  |       Isabelle       |
-| 15                               | May. 8  |          —           |
+| 15                               | May. 8  |          —           | -->
 
 <br><br>
 

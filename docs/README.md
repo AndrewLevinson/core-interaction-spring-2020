@@ -30,9 +30,9 @@ Howdy! This will be your main resource for the Studio and Lab Sections K Spring 
 
 ### [Spring Break :sunny: :palm_tree:](-disabled)
 
-### [Week 9- Study Week/No Class Meetings](./agendas/week-9) <span class="current">current</span>
+### [Week 9- Study Week/No Class Meetings](./agendas/week-9) 
 
-### [Week 10](./agendas/week-10-disabled)
+### [Week 10](./agendas/week-10)  <span class="current">current</span>
 
 <!--
 

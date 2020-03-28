@@ -5,8 +5,7 @@ sidebar: auto
 
 # Week 10 Agenda
 
-
-## Studio 
+## Studio
 
 ### Tuesday, 3/31
 
@@ -31,4 +30,9 @@ Be prepared to talk about your website for 4 minute. Test it out! We will review
 
 ## Lab
 
-[tbd]
+### Friday, 4/03
+
+- Mid-semester 1:on:1 check-ins on Zoom
+  - Sign up for a 10 minute time slot using [this google sheet](https://docs.google.com/spreadsheets/u/2/d/1PL634d3rfS5E1W3sgERc2jp_HkfVuywtuTEasO0h1YU/edit?usp=sharing)
+  - [Zoom Link](https://newschool.zoom.us/j/6890998105)
+  - We can discuss your progress, any concerns, as well as anything you'd like to learn in the lab in the remaining 5 lessons

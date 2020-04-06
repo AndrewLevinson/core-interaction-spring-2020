@@ -82,3 +82,8 @@ Read the readings for 03/03
 
 Reading the readings for  03/05
 
+## Week 11 Studio
+
+- [here](https://www.are.na/parson-interactive-sessionk/week-11)
+
+

@@ -32,13 +32,13 @@ Howdy! This will be your main resource for the Studio and Lab Sections K Spring 
 
 ### [Week 9- Study Week/No Class Meetings](./agendas/week-9) 
 
-### [Week 10](./agendas/week-10)  <span class="current">current</span>
+### [Week 10](./agendas/week-10)  
 
+
+
+
+### [Week 11](./agendas/week-11) <span class="current">current</span>
 <!--
-
-
-### [Week 11](./agendas/week-11-disabled)
-
 ### [Week 12](./agendas/week-12-disabled)
 
 ### [Week 13](./agendas/week-13-disabled)

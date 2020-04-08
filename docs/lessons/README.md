@@ -58,3 +58,7 @@ Lab Lesson 7: [Interactive Elements in JavaScript](https://github.com/AndrewLevi
 ## Week 8 - 9
 
 Lab Lesson: [Archive Tutorial](https://github.com/AndrewLevinson/symmetrical-octo-potato/tree/master/lab/week-8)
+
+## Week 11
+
+Lab Lesson: [Responsive Design](./lab/lesson-8-disabled)

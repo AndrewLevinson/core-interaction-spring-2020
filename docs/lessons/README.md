@@ -61,4 +61,4 @@ Lab Lesson: [Archive Tutorial](https://github.com/AndrewLevinson/symmetrical-oct
 
 ## Week 11
 
-Lab Lesson: [Responsive Design](./lab/lesson-8-disabled)
+Lab Lesson: [Responsive Design](./lab/lesson-11)

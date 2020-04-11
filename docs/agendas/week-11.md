@@ -30,7 +30,7 @@ In class lesson [zoom link](https://NewSchool.zoom.us/j/832466251)
 
 - Meeting on Zoom, [at the usual link here](https://NewSchool.zoom.us/j/6890998105)
   - I highly encourage you to join live, but if you are in a very different timezone, you can watch the recording on your own time.
-- Updated post-class links:
+- <b>Updated post-class links:</b>
   - [Link to 4/10 Class Zoom Recording: 2 hours](https://NewSchool.zoom.us/rec/share/18h2JL7g9WhIetbNsVjQX7AsQ6i7aaa8gyUerPsIyx1ZP3bRL93klNmsWJb31Nqd?startTime=1586548892000)
   - [Lesson Link - Responsive Design, Part 1](../lessons/lab/lesson-11)
   - [Code from our in-class tutorial](https://github.com/AndrewLevinson/symmetrical-octo-potato/tree/master/lab/week-11/in-class-example)

@@ -29,14 +29,19 @@ In class lesson [zoom link](https://NewSchool.zoom.us/j/832466251)
 ### Friday, 4/10
 
 - Meeting on Zoom, [at the usual link here](https://NewSchool.zoom.us/j/6890998105)
-  - I highly encourage you to join live, but if you are in a very different timezone, you can watch the recording on your own time. I will send out the link to the recording after class ends and post it here
-- [Lesson Link - Responsive Design, Part 1](../lessons/lab/lesson-11)
-- I will upload our lesson code at the usual repo, [here](https://github.com/AndrewLevinson/symmetrical-octo-potato/tree/master/lab/week-11)
+  - I highly encourage you to join live, but if you are in a very different timezone, you can watch the recording on your own time.
+- Updated post-class links:
+  - [Link to 4/10 Class Zoom Recording: 2 hours](https://NewSchool.zoom.us/rec/share/18h2JL7g9WhIetbNsVjQX7AsQ6i7aaa8gyUerPsIyx1ZP3bRL93klNmsWJb31Nqd?startTime=1586548892000)
+  - [Lesson Link - Responsive Design, Part 1](../lessons/lab/lesson-11)
+  - [Code from our in-class tutorial](https://github.com/AndrewLevinson/symmetrical-octo-potato/tree/master/lab/week-11/in-class-example)
+  - <i>Reference: [JavaScript Comparison and Logical Operators
+    ](https://www.w3schools.com/js/js_comparisons.asp)</i>
 
 ### Homework
 
 - Using [the starter HTML code here](https://github.com/AndrewLevinson/symmetrical-octo-potato/tree/master/lab/week-11/starter.html), layout this site in three unique ways. Ensure it works differenlty and nicely at browser widths of `375px`, `1024px`, and `1440px`
   - Use a combination of `@media` queries in CSS and conditional logic with `if` statements in JavaScript
+  - Remember to create your own CSS file called "style.css" and JavaScript file called "script.js". The code to link them is already in the HTML
 - I will grade the first two JavaScript homeworks (the button and filter) as well as your Canvas discussion post this weekend.
 
 <b>Due Date:</b> Uploaded to your Github repo and accessible via a link on your course homepage by next lab, April 17

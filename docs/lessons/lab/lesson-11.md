@@ -1,5 +1,5 @@
 ---
-title: JS Lecture
+title: CSS & JS Lecture
 sidebar: auto
 ---
 

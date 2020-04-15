@@ -66,10 +66,12 @@ HTML stands for Hypertext Markup Language. It's used to structure a webpage and 
 - [DevTips on YouTube: CSS Positioning, Part 2](https://www.youtube.com/watch?v=Rf6zAP4YnZA)
 - [Flexbox in 5 Minutes](https://cvan.io/flexboxin5/)
 - [Flexbox Froggy](http://flexboxfroggy.com/)
-- [Wes Bos' Grid Tutorial](https://cssgrid.io/)
+- [Wes Bos's Grid Tutorial](https://flexbox.io/)
+- [Wes Bos's Grid Tutorial](https://cssgrid.io/)
 - [Sarah Drasner Grid Generator Tool](https://cssgrid-generator.netlify.com/)
 - [Grid Garden game](https://cssgridgarden.com/)
 - [CSS Tricks](https://css-tricks.com/)
+- [Cris Coyier of CSS Tricks Tutorials](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
 - [Lynda: Searching for "CSS"](https://www.lynda.com/search?q=css)
 - [CSS Web-Design Tips](https://uxplanet.org/common-webpage-design-mistakes-59eed9831bd7)
 - [More web design tips](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
@@ -79,7 +81,11 @@ HTML stands for Hypertext Markup Language. It's used to structure a webpage and 
 - [Wes Bos's JavaScript 30 Tutorials (free)](https://javascript30.com/)
 - [Array Explorer Tool](https://sdras.github.io/array-explorer/)
 - [Array Method article](https://css-tricks.com/an-illustrated-and-musical-guide-to-map-reduce-and-filter-array-methods/)
-- More to come...
+- Youtube Channels with JavaScript Tutorials:
+  - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+  - [Coding Train](https://www.youtube.com/user/shiffman)
+  - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+  - [LevelUp Tuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
 
 ## Webfonts
 

@@ -39,7 +39,7 @@ In class lesson [zoom link](https://NewSchool.zoom.us/j/832466251)
 
 ### Homework
 
-- Using [the starter HTML code here](https://github.com/AndrewLevinson/symmetrical-octo-potato/tree/master/lab/week-11/starter.html), layout this site in three unique ways. Ensure it works differenlty and nicely at browser widths of `375px`, `1024px`, and `1440px`
+- Using [the starter HTML code here](https://github.com/AndrewLevinson/symmetrical-octo-potato/tree/master/lab/week-11/starter.html), layout this site in three unique ways. Ensure it works differently and nicely at browser widths of `375px`, `1024px`, and `1440px`
   - Use a combination of `@media` queries in CSS and conditional logic with `if` statements in JavaScript
   - You can play around with the starter HTML a little bit if you'd like, but it <b>must be the same HTML file for all three breakpoints</b>
   - Remember to create your own CSS file called "style.css" and JavaScript file called "script.js". The code to link them is already in the HTML

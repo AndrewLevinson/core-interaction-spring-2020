@@ -16,3 +16,5 @@ This week we'll cover remaining pieces of responsive design, along with some gui
 - Working with video and audio
 - CDN links?
 - position: sticky (and other positions)
+  <!--
+  show students how to document work by recording video via quicktime. Compression too? also, using markup to document work. Show examples of documentation on github? -->

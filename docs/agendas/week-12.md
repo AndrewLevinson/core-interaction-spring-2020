@@ -33,7 +33,7 @@ Yehwan Song guest lecture: come prepared with 1 question
   - I highly encourage you to join live, but if you are in a very different timezone, you can watch the recording on your own time.
 - <b>Updated post-class links:</b>
   - [Link to 4/17 Class Zoom Recording](-disabled)
-  - [Lesson Link - Responsive Design, Part 2](../lessons/lab/lesson-12-disabled)
+  - [Lesson Link - Responsive Design, Part 2](../lessons/lab/lesson-12)
   - [Code from our in-class tutorial](https://github.com/AndrewLevinson/symmetrical-octo-potato/tree/master/lab/week-12/in-class-example-disabled)
 
 ### Homework

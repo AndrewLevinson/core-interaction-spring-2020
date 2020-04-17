@@ -81,6 +81,7 @@ HTML stands for Hypertext Markup Language. It's used to structure a webpage and 
 - [Wes Bos's JavaScript 30 Tutorials (free)](https://javascript30.com/)
 - [Array Explorer Tool](https://sdras.github.io/array-explorer/)
 - [Array Method article](https://css-tricks.com/an-illustrated-and-musical-guide-to-map-reduce-and-filter-array-methods/)
+- [HTML DOM - manipulate HTML with vanilla JavaScript lookup](https://htmldom.dev/)
 - Youtube Channels with JavaScript Tutorials:
   - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
   - [Coding Train](https://www.youtube.com/user/shiffman)

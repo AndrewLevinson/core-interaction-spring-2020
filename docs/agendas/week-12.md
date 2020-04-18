@@ -34,7 +34,9 @@ Yehwan Song guest lecture: come prepared with 1 question
 - <b>Updated post-class links:</b>
   - [Link to 4/17 Class Zoom Recording](https://NewSchool.zoom.us/rec/share/_-dHBpDX5FFLSYXC4mPQX4QsEov9eaa81SdIrPUKnxlFNQd5FQOivF2qwptnPcpb?startTime=1587153598000)
   - [Lesson Link - Responsive Design, Part 2](../lessons/lab/lesson-12)
-  - [Code from our in-class tutorial](https://github.com/AndrewLevinson/symmetrical-octo-potato/tree/master/lab/week-12/in-class-example)
+  - Code from our in-class tutorial
+    - [Live Site Output](https://andrewlevinson.github.io/symmetrical-octo-potato/lab/week-12/in-class-example/)
+    - [Code in Repo](https://github.com/AndrewLevinson/symmetrical-octo-potato/tree/master/lab/week-12/in-class-example)
 
 ### Homework
 

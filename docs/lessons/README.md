@@ -65,4 +65,4 @@ Lab Lesson: [Responsive Design](./lab/lesson-11)
 
 ## Week 12
 
-Lab Lesson: [Responsive Design, Part 2](./lab/lesson-12-disabled)
+Lab Lesson: [Responsive Design, Part 2](./lab/lesson-12)

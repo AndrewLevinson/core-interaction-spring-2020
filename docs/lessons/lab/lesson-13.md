@@ -51,6 +51,7 @@ SVG is essentially just text that describes basic 2-D shapes. And that 'text' co
   - [Path generator](https://jxnblk.github.io/paths/)
 - Libraries
   - [Two.js](https://two.js.org/examples/)
+  - [GSAP](https://greensock.com/)
   - [Snap](http://snapsvg.io/)
   - Data Visualization
     - [Chartjs - the easiest charting library](https://www.chartjs.org/)

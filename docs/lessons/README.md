@@ -72,3 +72,7 @@ Lab Lesson: [Responsive Design, Part 2](./lab/lesson-12)
 ## Week 13
 
 Lab Lesson: [Intro to SVG](./lab/lesson-13)
+
+## Week 14
+
+Lab Lesson: [Intro to APIs](./lab/lesson-14-disabled)

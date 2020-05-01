@@ -84,6 +84,7 @@ Use [this list of Presentation Attributes](https://developer.mozilla.org/en-US/d
   - [Path animation tutorial w/ CSS](https://css-tricks.com/svg-line-animation-works/)
   - [SVG Optimizer](https://jakearchibald.github.io/svgomg/)
   - [Path generator tool](https://jxnblk.github.io/paths/)
+  - [Animation code generator](https://svgartista.net/)
 - Libraries
   - [Two.js - good one to get started with](https://two.js.org/examples/)
   - [GSAP - major pro library, very advanced](https://greensock.com/)

@@ -75,4 +75,4 @@ Lab Lesson: [Intro to SVG](./lab/lesson-13)
 
 ## Week 14
 
-Lab Lesson: [Intro to APIs](./lab/lesson-14-disabled)
+Lab Lesson: [Intro to APIs](./lab/lesson-14)

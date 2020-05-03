@@ -5,7 +5,7 @@ sidebar: auto
 
 # Intro to using an API!
 
-<b>Note: I will post updated from this with references this week</b>
+<b>Note: I will update this content soon</b>
 
 - What is an API?
   - GET, POST, etc.

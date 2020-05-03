@@ -5,6 +5,8 @@ sidebar: auto
 
 # Intro to using an API!
 
+<b>Note: I will post updated from this with references this week</b>
+
 - What is an API?
   - GET, POST, etc.
   - Why do they exist?

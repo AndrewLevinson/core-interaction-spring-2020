@@ -30,9 +30,9 @@ sidebar: auto
 - Meeting on Zoom, [at the usual link here](https://NewSchool.zoom.us/j/6890998105)
 - API Day! An intro to using APIs on the web with JavaScript (it's not scary, I promise)
 - <b>Updated post-class links to come:</b>
-  - [Link to 5/01 Class Zoom Recording](-disabled)
+  - [Link to 5/01 Class Zoom Recording](https://NewSchool.zoom.us/rec/share/wOVUIq3hqz5JZYXH-W7CV6k9EbbET6a81ygW-aAIn0dX5286QI1DmlJEJLncritj?startTime=1588363353000)
   - [Lesson Link - Intro to APIs](../lessons/lab/lesson-14)
-  - Code from our in-class tutorial
+  - Code from our in-class tutorial (<i>coming soon</i>)
     - [Live Site Output](https://andrewlevinson.github.io/symmetrical-octo-potato/lab/week-14/in-class-example/-disabled)
     - [Code in Repo](https://github.com/AndrewLevinson/symmetrical-octo-potato/tree/master/lab/week-14/in-class-example-disabled)
 

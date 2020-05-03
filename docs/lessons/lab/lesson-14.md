@@ -15,15 +15,17 @@ API stands for Application Programming Interface and it's basically a way for co
 
 APIs are great for accessing third-party content, especially database content. It's particularly useful if the data often changes or updates. For example, we could use an API to get the current weather. If we didn't use an API for this, we would need to manually change our code every day, or every hour (which is no fun). An API will keep our weather content up to date at all times because it performs a new request every time a user loads our website.
 
-APIs are also great for posting content. For example, we could use the Twitter API to post a tweet from a website we've creating, instead of having to go to twitter.com to do it.
+APIs are also great for posting content. For example, we could use the Twitter API to post a tweet from a website we've created, instead of having to go to twitter.com to do it.
 
 ## Terminology
 
+When using an API, there's a request for data/action and then a response from the server.
+
 We have `GET`, `POST`, `DELETE`, and `PUT` as requests we can make with an API.
 
-- `GET`: This gets information, like a list of movies to display
-- `POST`: This adds content, like using an API to post a tweet, or add a review. Basically, a new line will be added to a database
-- `PUT`: This updates content, like editing a post or any previous entry into our database/content
+- `GET`: This reads existing data, like a list of movies to display
+- `POST`: This creates new content, posting a new tweet, or adding a review
+- `PUT`: This updates content, like editing a social media post or a yelp review
 - `DELETE`: As you'd expect, this deletes a piece of content, like deleting a post or review
 
 ## How do I use an API?
@@ -41,9 +43,9 @@ Let's use the [The Movie Database's API](https://www.themoviedb.org/documentatio
 - Walk through [the documentation](https://developers.themoviedb.org/3) to know how to get started and navigate the API
 - Show [JSON response in browser](https://api.themoviedb.org/3/movie/popular?api_key=94a83d421d79431debf81630227da2ff&language=en-US&page=1) using [this endpoint for popular movies](https://developers.themoviedb.org/3/movies/get-popular-movies)
   - Make sure to install a JSON formatter broswer extension so you can see parsed JSON, that isn't a mess! I use one called [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) in the Chrome webstore
-- Learn `fetch` and `async/await` JavaScript methods to load data
+- Learn `fetch` and `async/await` JavaScript methods to load data to our website
   - Remember, you must use a local development server when working with an API. I prefer the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) VS Code Extension.
-    - You can alse run a simple server with python by typing `python -m SimpleHTTPServer` in your terminal (make sure you're in the correct directory). It will automatically be outputted to `http://localhost:8000` in your browser
+    - You can alse run a simple server with python by typing `python -m SimpleHTTPServer` in your terminal (make sure you're in the correct directory). It will automatically output the contents of the directory to `http://localhost:8000` in your browser
 
 ## Resources
 

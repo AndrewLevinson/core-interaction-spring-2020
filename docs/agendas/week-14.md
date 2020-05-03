@@ -33,8 +33,8 @@ sidebar: auto
   - [Link to 5/01 Class Zoom Recording](https://NewSchool.zoom.us/rec/share/wOVUIq3hqz5JZYXH-W7CV6k9EbbET6a81ygW-aAIn0dX5286QI1DmlJEJLncritj?startTime=1588363353000)
   - [Lesson Link - Intro to APIs](../lessons/lab/lesson-14)
   - Code from our in-class tutorial (<i>coming soon</i>)
-    - [Live Site Output](https://andrewlevinson.github.io/symmetrical-octo-potato/lab/week-14/in-class-example/-disabled)
-    - [Code in Repo](https://github.com/AndrewLevinson/symmetrical-octo-potato/tree/master/lab/week-14/in-class-example-disabled)
+    - [Live Site Output](https://andrewlevinson.github.io/symmetrical-octo-potato/lab/week-14/in-class-example/)
+    - [Code in Repo](https://github.com/AndrewLevinson/symmetrical-octo-potato/tree/master/lab/week-14/in-class-example)
 
 ### Homework
 

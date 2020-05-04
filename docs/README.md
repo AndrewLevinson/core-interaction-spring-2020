@@ -40,9 +40,9 @@ Howdy! This will be your main resource for the Studio and Lab Sections K Spring 
 
 ### [Week 13](./agendas/week-13)
 
-### [Week 14](./agendas/week-14) <span class="current">current</span>
+### [Week 14](./agendas/week-14) 
 
-### [Week 15](./agendas/week-15-disabled)
+### [Week 15- FINALS!](./agendas/week-15) <span class="current">current</span>
 
 <!-- ::: tip Pro Tip
 These will unlock at the beginning of each week. You should make a habbit of reviewing the upcoming week's agenda in advance.

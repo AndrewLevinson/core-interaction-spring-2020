@@ -6,7 +6,7 @@ title: Core Interaction Home Page
 
 # Welcome to Core Interaction :wave:
 
-Howdy! This will be your main resource for the Studio and Lab Sections K Spring 2020
+Howdy! This will be your main resource for the Studio and Lab Sections K <b>Spring 2020</b>
 
 [What did I sign up for? →](./info/)
 
@@ -26,7 +26,7 @@ Howdy! This will be your main resource for the Studio and Lab Sections K Spring 
 
 ### [Week 7](./agendas/week-7)
 
-### [Week 8 (Lab Canceled)](./agendas/week-8)
+### [Week 8](./agendas/week-8)
 
 ### [Spring Break :sunny: :palm_tree:](-disabled)
 
@@ -40,9 +40,11 @@ Howdy! This will be your main resource for the Studio and Lab Sections K Spring 
 
 ### [Week 13](./agendas/week-13)
 
-### [Week 14](./agendas/week-14) 
+### [Week 14](./agendas/week-14)
 
-### [Week 15- FINALS!](./agendas/week-15) <span class="current">current</span>
+### [Week 15- FINALS!](./agendas/week-15)
+
+<!-- <span class="current">current</span> -->
 
 <!-- ::: tip Pro Tip
 These will unlock at the beginning of each week. You should make a habbit of reviewing the upcoming week's agenda in advance.
@@ -50,7 +52,13 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 <br><br>
 
-## Student Github Sites
+## Github Repositories & GH Pages Sites
+
+### [Andrew (instructor) In-Class Code Examples](https://github.com/AndrewLevinson/symmetrical-octo-potato)
+
+[https://andrewlevinson.github.io/symmetrical-octo-potato/](https://andrewlevinson.github.io/symmetrical-octo-potato/)
+
+### Students
 
 ### [Eesha](https://github.com/eesha3/core-lab-interaction)
 
@@ -111,10 +119,6 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 ### [Arianne](https://github.com/ariannezhang/corelab)
 
 [https://ariannezhang.github.io/corelab/](https://ariannezhang.github.io/corelab/index.html)
-
-### [Andrew (instructor)](https://github.com/AndrewLevinson/symmetrical-octo-potato)
-
-[https://andrewlevinson.github.io/symmetrical-octo-potato/](https://andrewlevinson.github.io/symmetrical-octo-potato/)
 
 <br><br>
 
